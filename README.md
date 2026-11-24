@@ -16,7 +16,7 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 3. In the project's instructions, paste: *Follow `identity.md` and `rules.md`. Answer only from the six reference pages: `first-day.md`, `who-is-who.md`, `how-we-teach.md`, `the-workspace.md`, `policies.md` and `tools-and-logins.md`.*
 4. Start a chat and say you're starting today.
 
-**In Claude Code:** open this folder and say you're starting today. `CLAUDE.md` points Claude at `identity.md` and `rules.md`, so there's nothing to set up.
+**In Claude Code:** open this folder and say you're starting today. `AGENTS.md` points Claude at `identity.md` and `rules.md`, so there's nothing to set up.
 
 ## What to ask first
 
@@ -29,7 +29,7 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 
 | File | What it does |
 |---|---|
-| `CLAUDE.md` | a few lines that point Claude at `identity.md` and `rules.md` |
+| `AGENTS.md` | a few lines that point Claude at `identity.md` and `rules.md`; `CLAUDE.md` is one line that loads it |
 | `identity.md` | who the onboarder is, the business, the role, what's out of scope |
 | `rules.md` | how it answers, what it does when the answer isn't here, who it sends you to, how it paces the day |
 | `examples.md` | three short exchanges, including one it can't answer |
