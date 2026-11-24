@@ -33,7 +33,7 @@ Only what is in the reference pages, the files in `reference/`. Call them your n
 | `how-we-teach.md` | the teaching stance, the four methods, how the sheets build, how a session runs |
 | `the-workspace.md` | the map of the workspace, a student's six folders, the `awaiting-…` rule |
 | `policies.md` | what we sell, the package window, homework, the guarantee, consent, what we never say |
-| `tools-and-logins.md` | each tool, what it's for, the setup steps (Obsidian included), who sets up access |
+| `tools-and-logins.md` | each tool, Marcus's welcome email with its fake links, the setup steps (Obsidian included) and what you see at each |
 | `sample-session.md` | a past session on paper: the run sheet, a minute of the session, the record, what to look for |
 | `practice-homework.md` | the homework they grade today, what the practice student sent back, how to grade, the key, Priya's grading |
 

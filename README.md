@@ -44,7 +44,7 @@ Six parts, about three hours, and the onboarder runs every one in the chat, at y
 | `reference/how-we-teach.md` | the teaching stance, the four methods, how sheets build, how a session runs |
 | `reference/the-workspace.md` | the map of the workspace, a student's six folders, and the one rule about `awaiting-…` folders |
 | `reference/policies.md` | packages, homework, the guarantee, consent, what we never say |
-| `reference/tools-and-logins.md` | each tool, the setup steps (Obsidian included), and who sets you up (no passwords, ever) |
+| `reference/tools-and-logins.md` | each tool, Marcus's welcome email with its fake links, and the setup steps, Obsidian included (no passwords, ever) |
 | `reference/sample-session.md` | a past session on paper: the run sheet, a minute of the session, the record, what to look for |
 | `reference/practice-homework.md` | the homework you grade on day one, how to grade it, the key, and a senior tutor's grading |
 
