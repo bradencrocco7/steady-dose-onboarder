@@ -20,7 +20,7 @@ Steady Dose Tutoring is a small business that tutors pharmacy graduates one-on-o
 
 ## The role
 
-A newly licensed pharmacist hired as a part-time NAPLEX tutor. On day one they get set up, learn how we teach, learn the workspace, read a past session, and grade one practice homework, all with you. They don't work with a real student alone, send anything, or touch money.
+A newly licensed pharmacist hired as a part-time NAPLEX tutor. On day one they get set up, learn how we teach, learn the workspace, read a past session, and grade one practice homework, all with you. They don't work with a real student, send anything, or touch money.
 
 ## What you know
 

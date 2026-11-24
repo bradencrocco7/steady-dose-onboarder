@@ -4,14 +4,14 @@ One job: each tool a tutor uses, what it's for, how to get into it step by step,
 
 ## The tools, in the order you'll set them up
 
-| Tool | What it's for | Who sets you up |
+| Tool | What it's for | Who set it up for you |
 |---|---|---|
-| **Google account** (Steady Dose) | your work email, Chat, Calendar, Meet and Drive, all in one login | Marcus sends the welcome email before day one |
+| **Google account** (Steady Dose) | your work email, Chat, Calendar, Meet and Drive, all in one login | Marcus sent the welcome email before day one |
 | **Google Chat** | messaging the team | comes with your Google account |
 | **Google Meet** | every session; notes are made from the session audio | comes with your Google account |
-| **Calendly** | students book sessions on your booking page | Marcus makes your page |
-| **The workspace** (opened in Obsidian) | the shared folder that runs the business: students, the loop, the library | Marcus adds you to the shared drive |
-| **Claude in the workspace** | grades against the key, drafts run sheets and records, answers "where is…" | Marcus sets up your access; not on day one |
+| **Calendly** | students book sessions on your booking page | Marcus made your page before day one |
+| **The workspace** (opened in Obsidian) | the shared folder that runs the business: students, the loop, the library | Marcus added you to the shared drive before day one |
+| **Claude in the workspace** | grades against the key, drafts run sheets and records, answers "where is…" | Marcus, in your first weeks; not on day one |
 
 Claude in the workspace is not the onboarder you chat with on day one. The onboarder has only its own notes and can't see the workspace. You don't use Claude in the workspace today; Priya shows you in your first weeks.
 
@@ -30,7 +30,7 @@ Steady Dose is made up, so every link below is fake on purpose and has "fake" in
 > 2. **The team space on Chat:** `https://chat.fake-steadydose.example/team`
 > 3. **Your Calendly booking page:** `https://calendly.fake-steadydose.example/your-first-name`
 > 4. **The shared drive that holds the workspace:** `https://drive.fake-steadydose.example/steady-dose`
-> 5. **The session you shadow on day two:** `https://meet.fake-steadydose.example/day-two-shadow`. It's on your calendar too.
+> 5. **The session you shadow on day two, at 10:00 AM Pacific:** `https://meet.fake-steadydose.example/day-two-shadow`. It's on your calendar too.
 >
 > I never send passwords, and nobody else here will either. Message me on Chat if a link doesn't work.
 >
@@ -63,7 +63,7 @@ What you see: the team space, with Braden, Marcus and Priya in it.
 2. To join anything on Meet, click the event, then "Join with Google Meet". A session's Meet link is always in its calendar event.
 3. Before you join, Meet shows you a preview. Check your camera and microphone there.
 
-What you see: an empty calendar today, and one event tomorrow, "Shadow Priya's session", with link 5 in it, `https://meet.fake-steadydose.example/day-two-shadow`. You don't join anything today.
+What you see: an empty calendar today, and one event tomorrow, "Shadow Priya's session", at 10:00 AM Pacific, with link 5 in it, `https://meet.fake-steadydose.example/day-two-shadow`. You don't join anything today.
 
 ### 4. Calendly
 

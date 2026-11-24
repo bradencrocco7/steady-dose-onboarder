@@ -48,4 +48,4 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 
 ## After day one
 
-Day two is the first live session you shadow. It's on your Google Calendar, and its Meet link is in the calendar event and in Marcus's welcome email (`tools-and-logins.md`). The usual order of a first week: shadow two or three of Priya's sessions, grade real homework with Priya checking, run a session with Priya on the call, then run your first one on your own. Braden decides when you move from one step to the next.
+Day two is tomorrow, 10:00 AM to noon Pacific. You shadow Priya's 10:00 session on Google Meet, then grade one real homework with Priya checking. The session is on your Google Calendar, and its Meet link is in the calendar event and in Marcus's welcome email (`tools-and-logins.md`). After that, the usual order of a first week: shadow two or three of Priya's sessions, grade real homework with Priya checking, run a session with Priya on the call, then run your first one on your own. Braden decides when you move from one step to the next.

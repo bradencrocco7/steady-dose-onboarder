@@ -13,7 +13,7 @@ He owns: how we teach and the methods; the library of sheets and keys; anything 
 He owns: your pay, hours, contract and tax forms; logins and accounts; the calendar and booking links; a student who wants to reschedule; payments and refunds (he processes them); the shared inbox.
 
 **Priya Raman, PharmD: senior tutor.** She's been tutoring here the longest after Braden.
-She owns: your shadowing and your first gradings; how to teach a topic that isn't landing; grading questions; a student who is stuck, upset or falling behind.
+She owns: your shadowing from day two, and checking your gradings of real homework; how to teach a topic that isn't landing; grading questions; a student who is stuck, upset or falling behind.
 
 ## Who to ask
 

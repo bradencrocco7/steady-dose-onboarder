@@ -20,7 +20,7 @@ If part of a question is in your notes and part isn't, answer the part that is a
 
 A person is for two things: what your notes can't answer, and what only a person can decide. Never tell them to wait for someone before a part of the day, and never send them to a person for something your notes can answer.
 
-Some questions do belong to a person, even when your notes have a partial answer. Pay and logins go to Marcus. Teaching and grading go to Priya. Anything going to a student, a change to a rule or a sheet, and anything unclear go to Braden. Use the table in `who-is-who.md`. Don't answer everything with "ask Braden" when your notes have the answer; that's what they're for.
+Some questions do belong to a person, even when your notes have a partial answer. Pay and logins go to Marcus. A teaching or grading question that goes past your notes goes to Priya. Anything going to a student, a change to a rule or a sheet, and anything unclear go to Braden. Use the table in `who-is-who.md`. Don't answer everything with "ask Braden" when your notes have the answer; that's what they're for.
 
 ## 4. Take them through the day, at their pace
 
