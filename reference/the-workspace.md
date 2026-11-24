@@ -1,6 +1,6 @@
 # The workspace
 
-One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. This is part 3 of your first day. Braden walks through it with you, after how we teach.
+One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. This is part 3 of your first day.
 
 The workspace is the shared folder the business runs on. You open it in Obsidian (`tools-and-logins.md` has the steps). Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
 
@@ -14,7 +14,7 @@ steady-dose/
 ├── _config/             the rulebook: prices, what we never say, the voice for emails
 ├── _templates/          blanks: a new student's folder, a session record
 ├── operations/          everything after a student pays (your home)
-│   ├── tutoring/          the session loop, steps 1 to 8; read it with Priya
+│   ├── tutoring/          the session loop, steps 1 to 8; you follow it once you run sessions
 │   ├── students/          one folder per student
 │   ├── curriculum/        the library: the method sheets, every worksheet and its key
 │   ├── studio/            where new sheets are made (Braden only)

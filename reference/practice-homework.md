@@ -25,7 +25,7 @@ The practice student is made up, so nothing here can reach a real student. In th
 Take one problem at a time.
 
 1. Work the problem yourself first, with calc-CARE (`how-we-teach.md`), before you look at the key.
-2. Check your answer against the key. If yours and the key disagree, stop and tell Priya. Don't change the key.
+2. Check your answer against the key. If they disagree, work it once more. A key that still looks wrong goes to Braden; you never change one yourself.
 3. Put the student's work and answer next to the key.
 4. If they match, write "got it".
 5. If it's a miss, write three things:
@@ -72,6 +72,6 @@ Read this only after you've written your own.
 
 ## When you've compared
 
-If your grading and Priya's differ, that's what this part is for. Tell Priya where they differ and she'll go through it with you.
+If your grading and Priya's differ, that's what this part is for. Go through the differences with the onboarder. If you still think yours is right, that's a grading question for Priya (`who-is-who.md`).
 
 To save your grading in the workspace: in Obsidian, right-click the practice student's `grading/` folder, choose "New note", and name it `practice-1-` followed by your first name.

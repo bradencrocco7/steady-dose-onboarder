@@ -2,11 +2,11 @@
 
 One job: who works at Steady Dose, what each person owns, and who to ask about what.
 
-There are three of us, plus you. Everyone is reached on Google Chat in your Steady Dose Google account. There is no phone list; if you need a number, ask Marcus.
+There are three of us, plus you. You do day one with the onboarder; the three of us are who you ask when it can't answer, or when something is ours to decide. Everyone is reached on Google Chat in your Steady Dose Google account. There is no phone list; if you need a number, ask Marcus.
 
 ## The people
 
-**Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so on a normal day he's on Chat in the evenings and on weekends, and a message during the day gets an answer that night. On your first day he's with you live for parts 2 and 3, how we teach and the workspace.
+**Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so he's on Chat in the evenings and on weekends, and a message during the day gets an answer that night.
 He owns: how we teach and the methods; the library of sheets and keys; anything that goes to a student (he approves every send); the rulebook (`_config/`) and the workspace itself; new students, the free consult and marketing.
 
 **Marcus Lee: operations and scheduling.** He handles the business side day to day.

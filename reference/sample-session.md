@@ -1,14 +1,10 @@
 # A sample session
 
-One job: the practice student's last session, on paper, so a new tutor can see how a session runs when no live one is booked to shadow. This is part 4 of your first day.
+One job: the practice student's last session, on paper, so a new tutor can see how a session runs before they ever watch a live one. This is part 4 of your first day.
 
-It has the run sheet Priya wrote before the session and the session record she wrote after. In the workspace, both are in `operations/students/practice-student/sessions/`. The practice student is made up. Everything else is how a session here really runs (`how-we-teach.md`).
+It has the run sheet Priya wrote before the session and the session record she wrote after. In the workspace, both are in `operations/students/practice-student/sessions/`. The practice student is made up. Everything else is how a session here really runs (`how-we-teach.md`). Shadowing a live session starts after day one.
 
-## If a live session is booked today
-
-It's on your Google Calendar. Click the event, then "Join with Google Meet". You watch with your microphone muted, and Priya introduces you at the start. Keep the list below in front of you while you watch.
-
-## What to watch for
+## What to look for
 
 1. She opens with what the student got right.
 2. The student's own question comes before her plan.
@@ -91,6 +87,13 @@ Session 2 of 3, Math Package. Homework graded: the calculations teaching sheet, 
 
 For next session: drip rate is open and dose volume is shaky, so both go on the next run sheet. Homework sent after this session: a re-drill on drip rate and dose volume, and Calculations practice 1. Practice 1 has come back, and it's the one you grade today (`practice-homework.md`).
 
-## After you've read it
+## Where each one shows up
 
-Ask yourself the six "what to watch for" points against this session: where did each one happen? Then tell Priya anything that surprised you.
+Try to find all six yourself first. Then check:
+
+1. The open leads with percent strength, which they closed since session 1.
+2. Their rounding question took the first 15 minutes, ahead of miss 1.
+3. Misses 1, 2 and 3 are each planned as the same five steps.
+4. In the minute of the session, Priya never says "wrong". She reads back what the student wrote.
+5. In the same minute: "What unit does the question want?" and "So which unit has to cancel?"
+6. Miss 3 was cut, as the run sheet said, and it's marked open for next time.

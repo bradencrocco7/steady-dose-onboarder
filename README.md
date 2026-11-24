@@ -29,7 +29,7 @@ It's built and tested for Claude. A tool that searches the files instead of read
 
 ## What the day looks like
 
-Six parts: get set up, how we teach, the workspace, watch a session, grade a practice homework, wrap up. Everything up to the wrap-up can be done in the chat, with no real accounts needed for parts 2 to 5. The folder holds a past session to read and a practice homework with a student's answers, the key, and a senior tutor's grading to compare with yours. The real people are there for what the folder doesn't cover.
+Six parts, about three hours, and the onboarder runs every one in the chat, at your pace: get set up, how we teach, the workspace, a past session to read, a practice homework to grade, wrap up. Nobody else has to be online. The practice homework comes with a student's answers, the key, and a senior tutor's grading to compare with yours. Braden, Marcus and Priya are in the folder only as who to ask for what the onboarder can't answer or decide: pay, a login that won't work, anything going to a real student.
 
 ## What's in the folder
 
@@ -45,7 +45,7 @@ Six parts: get set up, how we teach, the workspace, watch a session, grade a pra
 | `reference/the-workspace.md` | the map of the workspace, a student's six folders, and the one rule about `awaiting-…` folders |
 | `reference/policies.md` | packages, homework, the guarantee, consent, what we never say |
 | `reference/tools-and-logins.md` | each tool, the setup steps (Obsidian included), and who sets you up (no passwords, ever) |
-| `reference/sample-session.md` | a past session on paper: the run sheet, the session record, what to watch for |
+| `reference/sample-session.md` | a past session on paper: the run sheet, a minute of the session, the record, what to look for |
 | `reference/practice-homework.md` | the homework you grade on day one, how to grade it, the key, and a senior tutor's grading |
 
 ## The one thing I wish I'd been told

@@ -2,26 +2,26 @@
 
 One job: what happens on a new tutor's first day, in order, what you do in each part, and what waits until later.
 
-Day one is practice and watching. You won't touch money, send anything to a student, or work with a real student on your own. Nothing you do today can go wrong in a way that matters.
+Day one is practice. You won't touch money, send anything to a student, or work with a real student. Nothing you do today can go wrong in a way that matters.
 
-Steady Dose has no office. Day one is on Google Meet, like everything else here. This page gives the order of the day, not clock times. Braden emails you the start time before day one, and once you're signed in, each part of the day is on your Google Calendar with its time, breaks included. If you don't have a start time, ask Marcus.
-
-Parts 1 to 5 each have a page behind them, so the onboarder can take you through any of them itself, in the chat, whenever you're ready. The person named does that part with you live, and is who to ask about it.
+You do the whole day with the onboarder, in the chat, at your own pace. There's no start time, and nobody has to be online for any part of it. Steady Dose has no office; everyone works from home. Braden, Marcus and Priya are on Google Chat for the few things the onboarder can't answer or decide (`who-is-who.md`).
 
 ## The day
 
-| Part | What you do | The page | With |
+Six parts, in order, about three hours in all. Stop for a break whenever you like and pick up where you left off.
+
+| Part | What you do | About | The page |
 |---|---|---|---|
-| 1. Get set up | Sign in to your Google account, say hi on Chat, find today on your calendar, look at your Calendly page, and open the workspace in Obsidian | `tools-and-logins.md` | Marcus |
-| 2. How we teach | The stance, the four methods, how the sheets build, how a session runs | `how-we-teach.md` | Braden |
-| 3. The workspace | The map, a student's six folders, and the `awaiting-…` rule | `the-workspace.md` | Braden |
-| 4. Watch a session | Shadow one of Priya's sessions from your calendar. If none is booked today, read the practice student's last session | `sample-session.md` | Priya |
-| 5. Grade the practice homework | Grade it by hand, then compare your grading with Priya's | `practice-homework.md` | Priya |
-| 6. Wrap up | Ask anything again, then hear what's next for you tomorrow | | the onboarder for your questions, Braden for tomorrow |
+| 1. Get set up | Sign in to your Google account, say hi on Chat, look at your calendar and your Calendly page, and open the workspace in Obsidian | 30 minutes | `tools-and-logins.md` |
+| 2. How we teach | The stance, the four methods, how the sheets build, how a session runs | 45 minutes | `how-we-teach.md` |
+| 3. The workspace | The map, a student's six folders, and the `awaiting-…` rule | 30 minutes | `the-workspace.md` |
+| 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
+| 5. Grade the practice homework | Grade four problems by hand, then compare your grading with a senior tutor's | 45 minutes | `practice-homework.md` |
+| 6. Wrap up | Go through the list below with the onboarder, then say on Chat that you've finished day one | 10 minutes | this page |
 
-## Before you leave today, you should be able to
+## Before you finish today, you should be able to
 
-- Sign in to Google, join a Meet from your calendar, and open the workspace in Obsidian.
+- Sign in to Google and open the workspace in Obsidian.
 - Say in a sentence what we mean by "teach the why".
 - Name the four methods and what each one is for.
 - Find a student's folder, and say what goes in each of its six subfolders.
@@ -33,10 +33,11 @@ Parts 1 to 5 each have a page behind them, so the onboarder can take you through
 
 These are real parts of the job. You'll meet them in your first weeks, not on day one:
 
+- Shadowing Priya's live sessions on Google Meet.
 - Running your own session from a run sheet.
 - Writing a run sheet and a session record.
 - Drafting a recap or homework email for Braden to approve.
-- Grading with Claude in the workspace (Priya shows you).
+- Grading with Claude in the workspace.
 - The package window and the money-back guarantee in practice (`policies.md` has the short version).
 - The rebate and the exit call after a student's exam.
 
@@ -45,6 +46,6 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 - Refunds, payments and anything in `finance/`. That's Marcus.
 - Making new sheets in `studio/`. That's Braden.
 
-## Your first week, roughly
+## After day one
 
-Braden sets the pace for each new tutor, so this is the usual shape, not a promise: shadow two or three more sessions, grade with Priya checking, then run a session with Priya on the call, then your first one on your own.
+Day two is the first live session you shadow. Marcus puts it on your Google Calendar. The usual order of a first week: shadow two or three of Priya's sessions, grade real homework with Priya checking, run a session with Priya on the call, then run your first one on your own. Braden decides when you move from one step to the next.

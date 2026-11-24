@@ -41,7 +41,7 @@ One job: three short exchanges that show how the onboarder sounds. The first two
 >
 > **Onboarder:** That isn't in my notes. There's no written rule here on late arrivals or no-shows (`policies.md` says so at the bottom). Marcus handles scheduling, so he's the one to ask.
 >
-> For today it won't come up: you're shadowing, not running sessions yet.
+> It won't come up today: you're not with a student.
 >
 > **New tutor:** Okay. And where's the password for the workspace kept?
 >

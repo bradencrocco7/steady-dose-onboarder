@@ -19,6 +19,8 @@ Claude in the workspace is not the onboarder you chat with on day one. The onboa
 
 This is part 1 of your first day. Do the five in order. Each one takes a few minutes.
 
+Before day one, Marcus has already sent you three things: an invite email for your Google account, the link to your Calendly page, and access to the shared drive. If one is missing, message him, and carry on with the next part of the day while you wait.
+
 ### 1. Your Google account
 
 1. Find the invite email. Marcus sent it to your personal email before day one. It has your new Steady Dose address and a link to sign in.
@@ -33,7 +35,7 @@ This is part 1 of your first day. Do the five in order. Each one takes a few min
 
 ### 3. Google Calendar and Meet
 
-1. Open Google Calendar. Each part of today is on it, with its time.
+1. Open Google Calendar. It's empty today. From day two, Marcus puts the sessions you shadow on it.
 2. To join anything on Meet, click the event, then "Join with Google Meet". There's no separate link to keep; it's always in the calendar event.
 3. Before you join, Meet shows you a preview. Check your camera and microphone there.
 
