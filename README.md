@@ -2,7 +2,7 @@
 
 A folder that gets a new part-time NAPLEX tutor through their first day at Steady Dose Tutoring, a small one-on-one pharmacy exam tutoring business that runs on a shared workspace. Drop it into Claude and Claude becomes the person who has been there for years: it answers from the folder, sends you to the right person, paces the day, and says so when it doesn't know.
 
-The business and the team are made up, built from a real pharmacy tutoring business the owner runs, so the details are real even where the names aren't.
+Steady Dose and the team around me are made up, built from the pharmacy tutoring business I actually run. The owner is me, and the teaching methods are mine, so the details are real even where the other names aren't.
 
 ## Who this is for
 
