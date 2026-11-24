@@ -4,6 +4,8 @@ One job: the business rules a new tutor needs to know, in short. When a student 
 
 ## What we sell
 
+We tutor pharmacy graduates one-on-one for the NAPLEX, the exam they pass to become licensed pharmacists.
+
 | Offer | Sessions | Price | For |
 |---|---|---|---|
 | Free consult | 1 × 15 min | free | every new student starts here; Braden runs it |
@@ -30,7 +32,7 @@ We never promise a pass or a score. But if a student does all three of these and
 2. Sends their homework on time, 12 hours before each session.
 3. Finishes inside the package window.
 
-If a student asks for a refund, don't promise or refuse anything. Tell Marcus; he and Braden decide.
+If a student asks for a refund, don't promise or refuse anything. Tell Marcus; he and Braden decide. Whether a student met the three conditions is their call too, not yours.
 
 ## The rebate (later, not day one)
 
@@ -38,7 +40,7 @@ After their exam, a student can earn back $50 (Math Package) or $100 (Full NAPLE
 
 ## Session notes and recording
 
-Before the first session, every student signs a consent form, kept in their `paperwork/` folder. Written notes from each session's audio are a condition of tutoring. Video recording is optional; the student chooses on the form. **Before you turn on video recording, check their form.** If you can't find it, don't record, and tell Marcus. You don't make a recording of your own, including of a session you're shadowing. To look back at a session, read its session record in the student's `sessions/` folder, and ask Priya if you need more.
+Before the first session, every student signs a consent form, kept in their `paperwork/` folder. Written notes from each session's audio are a condition of tutoring. Video recording is optional; the student chooses on the form. **Before you turn on video recording, check their form.** If you can't find it, don't record, and tell Marcus. When you're shadowing, you don't record; it's Priya's session. To look back at it, read its session record in the student's `sessions/` folder, and ask Priya if you need more.
 
 ## What we never say
 

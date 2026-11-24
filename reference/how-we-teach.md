@@ -21,7 +21,7 @@ These are Braden's own methods, and every sheet and session uses them. Here is e
 | **calc-CARE** | every calculation, after the math | **C**lassify: what is it asking for, in what unit, rounded how? · **A**nalyze: set it up so the units cancel to the answer's unit · **R**eview: is the answer real, or is it 10 times off? · **E**xecute: commit, once |
 | **STAT** | picking a statistics test | **S**pot the outcome's data type (a count, a rank or a measurement) · **T**ally the groups and whether they're the same people or different people · **A**nalyze the shape (normal or skewed, measurements only) · **T**est name: read it off the table |
 | **CASE** | clinical case questions | **C**heck the question at the bottom first · **A**ssess what rules a drug out (allergies, kidneys, liver, pregnancy) · **S**elect first-line from what's left · **E**valuate for interactions and duplicates |
-| **MAPP** | learning a drug class | the class pattern first and why it happens, then the main uses and pearls, then the detail later; understanding before coverage |
+| **MAPP** | learning a drug class | the class pattern first and why it happens, then the main uses and pearls, then the detail later; understanding before coverage. This page gives MAPP's idea, not its letters; for those, see the full method sheet with Priya |
 
 ## How the sheets build
 
@@ -52,9 +52,9 @@ Sessions are 60 minutes on Google Meet. Before each one, the tutor has a **run s
 - **Close (about 4 minutes).** Ask what's still fuzzy. Give one habit to take into the exam.
 - **After.** Write the session record: each gap marked **got it**, **shaky** or **open**, and how the session compared with the run sheet. If you ran long or didn't reach a part, say so. That's normal, and the next session plans from it.
 
-## What you don't do yet
+## What you don't do on your own
 
-| Not yet | Who to ask |
+| Not on your own | Who to ask |
 |---|---|
 | Write a new sheet or change one in the library | Braden |
 | Send anything to a student: email, homework, a recap | Braden; you leave a draft, he approves it |

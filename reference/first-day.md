@@ -10,7 +10,7 @@ Steady Dose has no office. Day one is on Google Meet, like everything else here.
 
 | When | What | With |
 |---|---|---|
-| First hour | Your logins, the workspace included (see `tools-and-logins.md`), and a few questions about what you already know: the NAPLEX, tutoring, folders and AI | Marcus |
+| First hour | Your logins, the workspace included (see `tools-and-logins.md`) | Marcus |
 | Morning | How we teach: the why, the methods, how the sheets build, how a session runs (`how-we-teach.md`) | Braden |
 | Late morning | The workspace: what each folder name means, the folders you'll touch, the `awaiting-…` rule (`the-workspace.md`) | Braden |
 | Midday | Shadow one of Priya's sessions, live if one is booked, or from a past session's run sheet and record | Priya |
@@ -36,8 +36,11 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 - Grading with Claude in the workspace (Priya shows you).
 - The package window and the money-back guarantee in practice (`policies.md` has the short version).
 - The rebate and the exit call after a student's exam.
-- Refunds, payments and anything in `finance/` (Marcus only).
-- Making new sheets in `studio/` (Braden only).
+
+## Never yours
+
+- Refunds, payments and anything in `finance/`. That's Marcus.
+- Making new sheets in `studio/`. That's Braden.
 
 ## Your first week, roughly
 

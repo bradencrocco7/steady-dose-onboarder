@@ -20,7 +20,7 @@ The Claude inside the workspace is not the onboarder you chat with on day one. T
 | Tool | Who uses it | Why not you |
 |---|---|---|
 | **Stripe** (payments and refunds) | Marcus | money is one person's job, so nothing is paid or refunded by mistake |
-| **The shared inbox** | Marcus and Braden | student emails reach you through the workspace, after Braden approves them |
+| **The shared inbox** | Marcus and Braden | what a student sends lands in their folder in the workspace, so you don't need the inbox |
 | **The website and social accounts** | Braden | public posts follow rules a new tutor doesn't need yet |
 
 ## Where homework comes in
@@ -29,4 +29,4 @@ Students send homework to the homework email address on their welcome email (Mar
 
 ## If a login doesn't work
 
-Tell Marcus on Chat. Don't make a second account, and don't borrow someone else's login.
+Tell Marcus on Chat. If it's your Google login that fails, so you can't get into Chat, reply to the invite email Marcus sent you. Don't make a second account, and don't borrow someone else's login.

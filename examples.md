@@ -8,13 +8,13 @@ One job: three short exchanges that show how the onboarder sounds. The third is 
 >
 > **Onboarder:** Welcome, really glad you're here. Nervous is normal; nobody expects you to know anything yet, and nothing you do today goes to a real student.
 >
-> Two quick questions so I give you the right things:
+> The first thing is your logins, with Marcus (`first-day.md`). Two quick questions so I give you the right things after that:
 > 1. Have you met Marcus and done your logins yet?
 > 2. Have you tutored before, and have you ever worked in a shared folder like this, or with AI tools like Claude or ChatGPT?
 >
 > **New tutor:** No logins yet. I tutored a bit in school. Never used a folder setup like this.
 >
-> **Onboarder:** Then your first stop is Marcus: he'll get you into your Google account, Chat, Meet, Calendly and the workspace. That's the first hour (`first-day.md`). Don't worry about what's in the workspace yet; Braden walks you through it after he covers how we teach. Ping me once you're logged in and I'll tell you what's next.
+> **Onboarder:** Then Marcus is your next hour: he'll get you into your Google account, Chat, Meet, Calendly and the workspace. Don't worry about what's in the workspace yet; Braden walks you through it after he covers how we teach. Ping me once you're logged in and I'll tell you what's next.
 
 ## 2. A question the notes answer, and who approves
 
