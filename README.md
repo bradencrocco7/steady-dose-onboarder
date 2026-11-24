@@ -1,6 +1,6 @@
 # The Steady Dose Onboarder
 
-A folder that gets a new part-time NAPLEX tutor through their first day at Steady Dose Tutoring, a small one-on-one pharmacy exam tutoring business that runs on a shared workspace. Drop it into Claude and Claude becomes the person who has been there for years: it answers from the folder, sends you to the right person, paces the day, and says so when it doesn't know.
+A folder that gets a new part-time NAPLEX tutor through their first day at Steady Dose Tutoring, a small one-on-one pharmacy exam tutoring business that runs on a shared workspace. Drop it into Claude and Claude becomes the person who has been there for years: it takes you through the day part by part, answers from the folder, sends you to the right person, and says so when it doesn't know.
 
 Steady Dose and the team around me are made up, built from the pharmacy tutoring business I actually run. The owner is me, and the teaching methods are mine, so the details are real even where the other names aren't.
 
@@ -13,17 +13,23 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 **In a Claude project (claude.ai):**
 1. Make a new project.
 2. Add every file in this folder to the project's files, including everything in `reference/`.
-3. In the project's instructions, paste: *Follow `identity.md` and `rules.md`. Answer only from the six reference pages: `first-day.md`, `who-is-who.md`, `how-we-teach.md`, `the-workspace.md`, `policies.md` and `tools-and-logins.md`.*
+3. In the project's instructions, paste: *You are the onboarder for Steady Dose Tutoring, a small pharmacy tutoring business. Follow `identity.md` and `rules.md`. Answer only from the reference pages: `first-day.md`, `tools-and-logins.md`, `how-we-teach.md`, `the-workspace.md`, `sample-session.md`, `practice-homework.md`, `who-is-who.md` and `policies.md`. Take the new tutor through their first day in this chat.*
 4. Start a chat and say you're starting today.
 
 **In Claude Code:** open this folder and say you're starting today. `AGENTS.md` points Claude at `identity.md` and `rules.md`, so there's nothing to set up.
 
+It's built and tested for Claude. A tool that searches the files instead of reading them whole can miss `identity.md` and `rules.md`; if you try one, paste the full text of those two files into its instructions.
+
 ## What to ask first
 
 - "It's my first day. What do I do first?"
+- "What's Obsidian, and how do I open the workspace?"
+- "Can we do the practice homework now?"
 - "Who do I ask about my pay?"
-- "What does `awaiting-send` mean?"
-- "How do you teach here?"
+
+## What the day looks like
+
+Six parts, and every one can be done in the chat: get set up, how we teach, the workspace, watch a session, grade a practice homework, wrap up. The folder holds a past session to read and a practice homework with a student's answers, the key, and a senior tutor's grading to compare with yours. The real people are there for what the folder doesn't cover.
 
 ## What's in the folder
 
@@ -32,13 +38,15 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 | `AGENTS.md` | a few lines that point Claude at `identity.md` and `rules.md`; `CLAUDE.md` is one line that loads it |
 | `identity.md` | who the onboarder is, the business, the role, what's out of scope |
 | `rules.md` | how it answers, what it does when the answer isn't here, who it sends you to, how it paces the day |
-| `examples.md` | three short exchanges, including one it can't answer |
-| `reference/first-day.md` | the day, in order, and what waits until later |
+| `examples.md` | three short exchanges: two that walk through part of the day, one it can't answer |
+| `reference/first-day.md` | the six parts of the day, in order, and what waits until later |
 | `reference/who-is-who.md` | the team, and who to ask about what |
 | `reference/how-we-teach.md` | the teaching stance, the four methods, how sheets build, how a session runs |
 | `reference/the-workspace.md` | the map of the workspace, a student's six folders, and the one rule about `awaiting-…` folders |
 | `reference/policies.md` | packages, homework, the guarantee, consent, what we never say |
-| `reference/tools-and-logins.md` | each tool and who sets you up (no passwords, ever) |
+| `reference/tools-and-logins.md` | each tool, the setup steps (Obsidian included), and who sets you up (no passwords, ever) |
+| `reference/sample-session.md` | a past session on paper: the run sheet, the session record, what to watch for |
+| `reference/practice-homework.md` | the homework you grade on day one, how to grade it, the key, and a senior tutor's grading |
 
 ## The one thing I wish I'd been told
 

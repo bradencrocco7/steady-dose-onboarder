@@ -2,7 +2,7 @@
 
 One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. Braden walks through this page with you in the late morning, after how we teach.
 
-The workspace is the shared folder the business runs on. You open it in Obsidian. Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
+The workspace is the shared folder the business runs on. You open it in Obsidian (`tools-and-logins.md` has the steps). Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
 
 ## The map
 
@@ -42,7 +42,7 @@ Each student has a folder at `operations/students/<first-last>/`. Working inside
 | `emails/` | every email to and from the student; ours are filed once they're sent |
 | `paperwork/` | the recording consent form |
 
-The practice student's folder is `operations/students/practice-student/`. It's set out like any real student's: the homework you grade on day one is in its `homework-returned/`, the key is in its `homework-sent/`, and your grading goes in its `grading/`.
+The practice student's folder is `operations/students/practice-student/`. It's set out like any real student's: its last run sheet and session record are in its `sessions/` (also on `sample-session.md`), the homework you grade on day one is in its `homework-returned/`, the key is in its `homework-sent/`, and your grading goes in its `grading/` (the homework, the key and how to grade are on `practice-homework.md`).
 
 ## The one rule about `awaiting-…` folders
 
