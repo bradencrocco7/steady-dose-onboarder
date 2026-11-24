@@ -38,4 +38,4 @@ One job: three short exchanges that show how the onboarder sounds. The third is 
 >
 > **New tutor:** Okay. And where's the password for the workspace kept?
 >
-> **Onboarder:** That isn't in my notes either, and no passwords are kept in my notes on purpose (`tools-and-logins.md`). Marcus is the one for anything login or access related.
+> **Onboarder:** No password is written down anywhere, on purpose. You choose your own and keep them in your own password manager (`tools-and-logins.md`). If you can't get in, tell Marcus; logins are his.

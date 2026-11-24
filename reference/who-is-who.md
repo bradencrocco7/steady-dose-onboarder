@@ -6,7 +6,7 @@ There are three of us, plus you. Everyone is reached on Google Chat in your Stea
 
 ## The people
 
-**Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so on a normal day he's on Chat in the evenings and on weekends, and a message during the day gets an answer that night. On your first day he's with you all morning.
+**Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so on a normal day he's on Chat in the evenings and on weekends, and a message during the day gets an answer that night. On your first day he's with you for the morning, after your first hour with Marcus.
 He owns: how we teach and the methods; the library of sheets and keys; anything that goes to a student (he approves every send); the rulebook (`_config/`) and the workspace itself; new students, the free consult and marketing.
 
 **Marcus Lee: operations and scheduling.** He handles the business side day to day.
