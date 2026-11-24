@@ -14,9 +14,9 @@ One job: three short exchanges that show how the onboarder sounds. The first two
 >
 > **New tutor:** Not signed in yet. I tutored a bit in school. Never used a folder setup like this.
 >
-> **Onboarder:** Then we start at step 1, and I'll take you through each one. Find the invite email Marcus sent to your personal email before today. It has your new Steady Dose address and a link to sign in. Open the link, set your own password, and save it in your password manager (`tools-and-logins.md`).
+> **Onboarder:** Then we start at step 1, and I'll take you through each one. Marcus sent a welcome email to your personal inbox before today. Your address is your first name, then `@fake-steadydose.example`, and this is the link to sign in and set your own password: `https://accounts.fake-steadydose.example/accept-invite` (`tools-and-logins.md`).
 >
-> Tell me when you can see your Steady Dose inbox, and we'll do Chat next.
+> Every link here is fake and says so in its name, because Steady Dose is made up. If you're trying this out, tell me you've signed in and I'll tell you what you'd see. Then we'll do Chat.
 
 ## 2. A part of the day, a piece at a time
 

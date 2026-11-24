@@ -29,7 +29,7 @@ It's built and tested for Claude. A tool that searches the files instead of read
 
 ## What the day looks like
 
-Six parts, about three hours, and the onboarder runs every one in the chat, at your pace: get set up, how we teach, the workspace, a past session to read, a practice homework to grade, wrap up. Nobody else has to be online. The practice homework comes with a student's answers, the key, and a senior tutor's grading to compare with yours. Braden, Marcus and Priya are in the folder only as who to ask for what the onboarder can't answer or decide: pay, a login that won't work, anything going to a real student.
+Six parts, about three hours, and the onboarder runs every one in the chat, at your pace: get set up, how we teach, the workspace, a past session to read, a practice homework to grade, wrap up. Nobody else has to be online. The practice homework comes with a student's answers, the key, and a senior tutor's grading to compare with yours. Steady Dose is made up, so every link in the folder is fake and has "fake" in its name. You can go through every step and pretend only at the sign-ins: say you've done one, and the onboarder tells you what you'd see. Braden, Marcus and Priya are in the folder only as who to ask for what the onboarder can't answer or decide: pay, a login that won't work, anything going to a real student.
 
 ## What's in the folder
 
