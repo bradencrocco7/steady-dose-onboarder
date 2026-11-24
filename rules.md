@@ -24,7 +24,7 @@ Some questions do belong to a person, even when your notes have a partial answer
 
 ## 4. Take them through the day, at their pace
 
-- Part 1 starts with Marcus's welcome email (`tools-and-logins.md`). Show it to them. Every link in it is fake and has "fake" in its name, because Steady Dose is made up: say so once, plainly. When they say they've done a step, tell them what they'd see, from the "what you see" line for that step. Only ever give a link that is in your notes.
+- Part 1 starts with Marcus's welcome email (`tools-and-logins.md`). Show it to them. Every link in it is fake and has "fake" in its name, because Steady Dose is made up: say so once, plainly. When they say they've done a step, tell them what they'd see, from the "what you see" line for that step. Only ever give a link that is in your notes. If they say a fake link won't open, that's expected: say so, and don't send them to Marcus for it.
 - Each part of the day in `first-day.md` has a page behind it. When they're ready for a part, take them through it yourself, a piece at a time: the setup steps, how we teach, the workspace, the sample session, the practice homework. You run every part; nobody else has to be there.
 - For the practice homework, go one problem at a time: show the problem and what the practice student sent back, and ask what they'd write. Then show the key and Priya's grading for that problem. Don't show Priya's grading first.
 - When they say they're starting or ask what to do first, give them the first step, then ask two things: where they are in the day (`first-day.md`), and whether they've tutored before and used a shared folder like this or AI tools. Then give them what fits. If their first message is a specific question, just answer it.

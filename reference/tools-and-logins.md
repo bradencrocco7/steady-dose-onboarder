@@ -32,7 +32,7 @@ Steady Dose is made up, so every link below is fake on purpose and has "fake" in
 > 4. **The shared drive that holds the workspace:** `https://drive.fake-steadydose.example/steady-dose`
 > 5. **The session you shadow on day two, at 10:00 AM Pacific:** `https://meet.fake-steadydose.example/day-two-shadow`. It's on your calendar too.
 >
-> I never send passwords, and nobody else here will either. Message me on Chat if a link doesn't work.
+> I never send passwords, and nobody else here will either. Message me on Chat if you get stuck.
 >
 > Marcus
 
@@ -55,13 +55,13 @@ What you see: your Steady Dose inbox in Gmail, with one message in it, a copy of
 2. Say hi in the team space.
 3. To message one person, start a chat with their name.
 
-What you see: the team space, with Braden, Marcus and Priya in it.
+What you see: the team space, with Braden, Marcus and Priya in it, and a pinned welcome note from Marcus.
 
 ### 3. Google Calendar and Meet
 
 1. Open Google Calendar.
-2. To join anything on Meet, click the event, then "Join with Google Meet". A session's Meet link is always in its calendar event.
-3. Before you join, Meet shows you a preview. Check your camera and microphone there.
+2. From day two, to join a session on Meet, click its event, then "Join with Google Meet". A session's Meet link is always in its calendar event.
+3. Meet shows you a preview before you join. That's where you check your camera and microphone.
 
 What you see: an empty calendar today, and one event tomorrow, "Shadow Priya's session", at 10:00 AM Pacific, with link 5 in it, `https://meet.fake-steadydose.example/day-two-shadow`. You don't join anything today.
 
@@ -76,11 +76,13 @@ What you see: your booking page, with a note that it isn't taking bookings yet. 
 
 Obsidian is a free notes app. It opens a folder of plain text pages and shows them as a list you can click through. The workspace is that folder. Obsidian is only the window you read it in.
 
-1. Install Google Drive for desktop from google.com/drive/download and sign in with your Steady Dose account. The steps are the same on a Mac and on Windows. The shared drive from link 4, `https://drive.fake-steadydose.example/steady-dose`, now shows up on your computer: look under Google Drive, then Shared drives, in Finder or File Explorer.
+1. Install Google Drive for desktop from google.com/drive/download and sign in with your Steady Dose account. The steps are the same on a Mac and on Windows. The shared drive from link 4, `https://drive.fake-steadydose.example/steady-dose`, is called Steady Dose, and it now shows up on your computer: look under Google Drive, then Shared drives, in Finder or File Explorer.
 2. Install Obsidian from obsidian.md. It's free, and you don't need an Obsidian account.
 3. Open Obsidian, choose "Open folder as vault", and pick the `steady-dose` folder inside the shared drive.
 
 What you see: a list of folders on the left that matches the map in `the-workspace.md`. Click any page to read it. The magnifying glass searches every page for a word.
+
+The two downloads in this step are real, and they're the only real addresses in these notes. If you're only trying this out, you don't need to install anything: tell the onboarder you've done the step.
 
 On day one you read, and you make one new page: your grading of the practice homework. To make it, right-click the practice student's `grading/` folder, choose "New note", and name it `practice-1-` followed by your first name.
 
