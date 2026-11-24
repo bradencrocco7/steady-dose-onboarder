@@ -23,13 +23,13 @@ It's built and tested for Claude. A tool that searches the files instead of read
 ## What to ask first
 
 - "It's my first day. What do I do first?"
-- "What's Obsidian, and how do I open the workspace?"
+- "Where's the workspace, and what's in it?"
 - "Can we do the practice homework now?"
 - "Who do I ask about my pay?"
 
 ## What the day looks like
 
-Six parts, about three hours, and the onboarder runs every one in the chat, at your pace: get set up, how we teach, the workspace, a past session to read, a practice homework to grade, wrap up. Nobody else has to be online. The practice homework comes with a student's answers, the key, and a senior tutor's grading to compare with yours. Steady Dose is made up, so every Steady Dose link in the folder is fake and has "fake" in its name. The setup steps are pretend for anyone without a real account: say you've done one, and the onboarder tells you what you'd see. Everything after setup is real, in the chat. Braden, Marcus and Priya are in the folder only as who to ask for what the onboarder can't answer or decide: pay, a login that won't work, anything going to a real student.
+Six parts, about three hours, and the onboarder runs every one in the chat, at your pace: get set up, how we teach, the workspace, a past session to read, a practice homework to grade, wrap up. Nobody else has to be online. The practice homework comes with a student's answers, the key, and a senior tutor's grading to compare with yours. Steady Dose is made up, so every link in the folder is fake and has "fake" in its name. The setup steps are pretend for anyone without a real account: say you've done one, and the onboarder tells you what you'd see. Everything after setup is real, in the chat. Braden, Marcus and Priya are in the folder only as who to ask for what the onboarder can't answer or decide: pay, a login that won't work, anything going to a real student.
 
 ## What's in the folder
 
@@ -44,7 +44,7 @@ Six parts, about three hours, and the onboarder runs every one in the chat, at y
 | `reference/how-we-teach.md` | the teaching stance, the four methods, how sheets build, how a session runs |
 | `reference/the-workspace.md` | the map of the workspace, a student's six folders, and the one rule about `awaiting-…` folders |
 | `reference/policies.md` | packages, homework, the guarantee, consent, what we never say |
-| `reference/tools-and-logins.md` | each tool, Marcus's welcome email with its fake links, and the setup steps, Obsidian included (no passwords, ever) |
+| `reference/tools-and-logins.md` | each tool, Marcus's welcome email with its fake links, and the setup steps (no passwords, ever) |
 | `reference/sample-session.md` | a past session on paper: the run sheet, a minute of the session, the record, what to look for |
 | `reference/practice-homework.md` | the homework you grade on day one, how to grade it, the key, and a senior tutor's grading |
 

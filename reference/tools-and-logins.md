@@ -10,7 +10,7 @@ One job: each tool a tutor uses, what it's for, how to get into it step by step,
 | **Google Chat** | messaging the team | comes with your Google account |
 | **Google Meet** | every session; notes are made from the session audio | comes with your Google account |
 | **Calendly** | students book sessions on your booking page | Marcus made your page before day one |
-| **The workspace** (opened in Obsidian) | the shared folder that runs the business: students, the loop, the library | Marcus added you to the shared drive before day one |
+| **The workspace** (a shared drive in Google Drive) | the shared folder that runs the business: students, the loop, the library | Marcus added you to the shared drive before day one |
 | **Claude in the workspace** | grades against the key, drafts run sheets and records, answers "where is…" | Marcus, in your first weeks; not on day one |
 
 Claude in the workspace is not the onboarder you chat with on day one. The onboarder has only its own notes and can't see the workspace. You don't use Claude in the workspace today; Priya shows you in your first weeks.
@@ -72,19 +72,16 @@ What you see: an empty calendar today, and one event tomorrow, "Shadow Priya's s
 
 What you see: your booking page, with a note that it isn't taking bookings yet. Marcus turns it on when you're ready to take students.
 
-### 5. The workspace, in Obsidian
+### 5. The workspace
 
-Obsidian is a free notes app. It opens a folder of plain text pages and shows them as a list you can click through. The workspace is that folder. Obsidian is only the window you read it in.
+The workspace is one shared folder: folders, and plain text pages inside them. There's nothing to install.
 
-1. Install Google Drive for desktop from google.com/drive/download and sign in with your Steady Dose account. The steps are the same on a Mac and on Windows. The shared drive from link 4, `https://drive.fake-steadydose.example/steady-dose`, is called Steady Dose, and it now shows up on your computer: look under Google Drive, then Shared drives, in Finder or File Explorer.
-2. Install Obsidian from obsidian.md. It's free, and you don't need an Obsidian account.
-3. Open Obsidian, choose "Open folder as vault", and pick the `steady-dose` folder inside the shared drive.
+1. Click link 4, `https://drive.fake-steadydose.example/steady-dose`. It opens in Google Drive in your browser.
+2. Click a folder to open it, and click a page to read it. The search box at the top finds any word.
 
-What you see: a list of folders on the left that matches the map in `the-workspace.md`. Click any page to read it. The magnifying glass searches every page for a word.
+What you see: the top of the workspace, which matches the map in `the-workspace.md`: three pages (`AGENTS.md`, `CONTEXT.md`, `STATUS.md`) and six folders (`_config/`, `_templates/`, `operations/`, `sales/`, `marketing/`, `finance/`).
 
-The two downloads in this step are real, and they're the only real addresses in these notes. If you're only trying this out, you don't need to install anything: tell the onboarder you've done the step.
-
-On day one you read, and you make one new page: your grading of the practice homework. To make it, right-click the practice student's `grading/` folder, choose "New note", and name it `practice-1-` followed by your first name.
+On day one you only read the workspace. Your practice grading is done with the onboarder, in the chat, so there's nothing to save.
 
 ## What you won't have, and why
 
@@ -100,4 +97,4 @@ Students send homework to the homework email address on their welcome email (Mar
 
 ## If something doesn't work
 
-For a login, Drive or Obsidian, tell Marcus on Chat. If it's your Google login that fails, so you can't get into Chat, reply to his welcome email. If you can't find the welcome email in your personal inbox, check your spam folder; the onboarder can show you its copy meanwhile. Don't make a second account, and don't borrow someone else's login.
+For a login or the shared drive, tell Marcus on Chat. If it's your Google login that fails, so you can't get into Chat, reply to his welcome email. If you can't find the welcome email in your personal inbox, check your spam folder; the onboarder can show you its copy meanwhile. Don't make a second account, and don't borrow someone else's login.

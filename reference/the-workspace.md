@@ -2,7 +2,7 @@
 
 One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. This is part 3 of your first day.
 
-The workspace is the shared folder the business runs on. You open it in Obsidian (`tools-and-logins.md` has the steps). Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
+The workspace is the shared folder the business runs on. It's a shared drive in Google Drive, with nothing to install (`tools-and-logins.md` has the link). Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
 
 ## The map
 
@@ -38,11 +38,11 @@ Each student has a folder at `operations/students/<first-last>/`. Working inside
 | `sessions/` | run sheets and session records |
 | `homework-sent/` | the homework we sent, with its key kept beside it for grading; the key itself is never sent |
 | `homework-returned/` | what the student sent back |
-| `grading/` | our grading of it; on day one, your grading of the practice homework goes here |
+| `grading/` | our grading of it |
 | `emails/` | every email to and from the student; ours are filed once they're sent |
 | `paperwork/` | the recording consent form |
 
-The practice student's folder is `operations/students/practice-student/`. It's set out like any real student's: its last run sheet and session record are in its `sessions/` (also on `sample-session.md`), the homework you grade on day one is in its `homework-returned/`, the key is in its `homework-sent/`, and your grading goes in its `grading/` (the homework, the key and how to grade are on `practice-homework.md`).
+The practice student's folder is `operations/students/practice-student/`. It's set out like any real student's: its last run sheet and session record are in its `sessions/` (also on `sample-session.md`), the homework you grade on day one is in its `homework-returned/`, and the key is in its `homework-sent/` (the homework, the key and how to grade are all on `practice-homework.md`, so you grade it in the chat).
 
 ## The one rule about `awaiting-…` folders
 

@@ -2,7 +2,7 @@
 
 One job: the homework a new tutor grades on day one, how to grade it, and Priya's grading of the same homework to compare with. This is part 5 of your first day. "By hand" means you work each problem and write the grading yourself; Claude in the workspace isn't used today.
 
-The practice student is made up, so nothing here can reach a real student. In the workspace it all sits in `operations/students/practice-student/`: the homework and its key in `homework-sent/`, what the student sent back in `homework-returned/`, and your grading goes in `grading/`. Everything is also on this page, so you can do the whole thing right here in the chat.
+The practice student is made up, so nothing here can reach a real student. In the workspace it all sits in `operations/students/practice-student/`: the homework and its key in `homework-sent/`, and what the student sent back in `homework-returned/`. Everything is also on this page, so you do the whole thing right here in the chat.
 
 ## The homework: Calculations practice 1
 
@@ -72,6 +72,4 @@ Read this only after you've written your own.
 
 ## When you've compared
 
-If your grading and Priya's differ, that's what this part is for. Go through the differences with the onboarder. If you still think yours is right, that's a grading question for Priya (`who-is-who.md`).
-
-To save your grading in the workspace: in Obsidian, right-click the practice student's `grading/` folder, choose "New note", and name it `practice-1-` followed by your first name.
+If your grading and Priya's differ, that's what this part is for. Go through the differences with the onboarder. If you still think yours is right, that's a grading question for Priya (`who-is-who.md`). There's nothing to save today; gradings of real homework go in the student's `grading/` folder, from day two.

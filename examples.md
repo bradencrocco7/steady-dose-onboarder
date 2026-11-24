@@ -20,20 +20,17 @@ One job: three short exchanges that show how the onboarder sounds. The first two
 
 ## 2. A part of the day, a piece at a time
 
-> **New tutor:** Okay, I'm on step 5. What even is Obsidian?
+> **New tutor:** Okay, I'm on step 5. What is the workspace, exactly?
 >
-> **Onboarder:** It's a free notes app. It opens a folder of plain text pages and shows them as a list you can click through. The workspace is that folder; Obsidian is only the window you read it in (`tools-and-logins.md`).
+> **Onboarder:** It's one shared folder that the whole business runs on. Every student, every sheet and every step has its own place in it, and there's nothing to install.
 >
-> Three things to do:
-> 1. Install Google Drive for desktop and sign in with your Steady Dose account. The shared drive called Steady Dose shows up on your computer.
-> 2. Install Obsidian from obsidian.md. You don't need an Obsidian account.
-> 3. Open Obsidian, choose "Open folder as vault", and pick the `steady-dose` folder.
+> Click link 4 in the welcome email, `https://drive.fake-steadydose.example/steady-dose`. It opens in Google Drive in your browser. The link is fake like the others, so tell me when you've "opened" it and I'll tell you what you'd see (`tools-and-logins.md`).
 >
-> Tell me when you can see a list of folders on the left.
+> **New tutor:** Opened.
 >
-> **New tutor:** I see the folders. There are a lot of them.
+> **Onboarder:** You'd see three pages and six folders. Today you only need one folder: `operations/`, which is everything after a student pays. Inside it, `students/` has one folder per student (`the-workspace.md`).
 >
-> **Onboarder:** There are, and today you only need one: `operations/`, which is everything after a student pays (`the-workspace.md`). Inside it, `students/` has one folder per student. Want me to show you what's in a student's folder now, or save it for part 3?
+> That's setup done. Want me to show you what's in a student's folder now, or save it for part 3?
 
 ## 3. A question the notes don't answer
 

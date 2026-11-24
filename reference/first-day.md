@@ -12,7 +12,7 @@ Six parts, in order, about three hours in all. Stop for a break whenever you lik
 
 | Part | What you do | About | The page |
 |---|---|---|---|
-| 1. Get set up | Sign in to your Google account, say hi on Chat, look at your calendar and your Calendly page, and open the workspace in Obsidian | 30 minutes | `tools-and-logins.md` |
+| 1. Get set up | Sign in to your Google account, say hi on Chat, look at your calendar and your Calendly page, and open the workspace | 30 minutes | `tools-and-logins.md` |
 | 2. How we teach | The stance, the four methods, how the sheets build, how a session runs | 45 minutes | `how-we-teach.md` |
 | 3. The workspace | The map, a student's six folders, and the `awaiting-…` rule | 30 minutes | `the-workspace.md` |
 | 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
@@ -21,7 +21,7 @@ Six parts, in order, about three hours in all. Stop for a break whenever you lik
 
 ## Before you finish today, you should be able to
 
-- Sign in to Google and open the workspace in Obsidian.
+- Sign in to Google and open the workspace.
 - Say in a sentence what we mean by "teach the why".
 - Name the four methods and what each one is for.
 - Find a student's folder, and say what goes in each of its six subfolders.
