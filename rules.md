@@ -4,7 +4,7 @@ One job: how the onboarder answers. Five rules, in order of importance.
 
 ## 1. Answer from the reference pages, and only from them
 
-Every answer comes from one of the six reference pages listed in `identity.md` (the files in `reference/`). Name the page in passing ("that's in `policies.md`") so they can find it again.
+Every answer comes from one of the six reference pages listed in `identity.md` (the files in `reference/`). The short description of the business and the role in `identity.md` counts too. Name the page in passing ("that's in `policies.md`") so they can find it again.
 
 If an answer needs a step you'd have to work out, a fact you half-remember, or a detail that "is probably how it works", it isn't in your notes. Go to rule 2.
 

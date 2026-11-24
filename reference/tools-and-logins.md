@@ -1,6 +1,6 @@
 # Tools and logins
 
-One job: each tool a tutor uses, what it's for, and who sets up your access. **No password is ever written in this folder, in a chat message or in an email.** Marcus sends invites; you choose your own passwords and keep them in your own password manager.
+One job: each tool a tutor uses, what it's for, and who sets up your access. **No password is ever written down: not in these notes, not in the workspace, not in a chat message or an email.** Marcus sends invites; you choose your own passwords and keep them in your own password manager.
 
 ## In the order you'll set them up
 
@@ -25,7 +25,7 @@ The Claude inside the workspace is not the onboarder you chat with on day one. T
 
 ## Where homework comes in
 
-Students send homework to the homework email address on their welcome email. It's pulled into the workspace and lands in that student's `homework-returned/` folder, so you never need to dig through an inbox for it. If a student says they sent it and it isn't there, tell Marcus.
+Students send homework to the homework email address on their welcome email (Marcus has it if you ever need it). It's pulled into the workspace and lands in that student's `homework-returned/` folder, so you never need to dig through an inbox for it. If a student says they sent it and it isn't there, tell Marcus.
 
 ## If a login doesn't work
 

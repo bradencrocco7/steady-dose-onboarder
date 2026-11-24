@@ -12,7 +12,7 @@ One job: the business rules a new tutor needs to know, in short. When a student 
 | Add-on session | 1 × 60 min | $95 | only for students who have bought a package |
 | Add-on four-pack | 4 × 60 min | $360 | the same, four sessions |
 
-Every session is 60 minutes, one-on-one, on Google Meet. Questions about buying go to Braden; questions about a charge go to Marcus.
+Every tutoring session is 60 minutes, one-on-one, on Google Meet; the free consult is the one exception, at 15 minutes. Questions about buying go to Braden; questions about a charge go to Marcus.
 
 ## The package window
 
@@ -27,7 +27,7 @@ Every session has homework. It's due **12 hours before the session starts**, so 
 We never promise a pass or a score. But if a student does all three of these and honestly doesn't feel more prepared, they get a full refund:
 
 1. Comes to their sessions.
-2. Sends their homework before each session.
+2. Sends their homework on time, 12 hours before each session.
 3. Finishes inside the package window.
 
 If a student asks for a refund, don't promise or refuse anything. Tell Marcus; he and Braden decide.
@@ -38,7 +38,7 @@ After their exam, a student can earn back $50 (Math Package) or $100 (Full NAPLE
 
 ## Session notes and recording
 
-Before the first session, every student signs a consent form, kept in their `paperwork/` folder. Written notes from each session's audio are a condition of tutoring. Video recording is optional; the student chooses on the form. **Before you turn on video recording, check their form.** If you can't find it, don't record, and tell Marcus.
+Before the first session, every student signs a consent form, kept in their `paperwork/` folder. Written notes from each session's audio are a condition of tutoring. Video recording is optional; the student chooses on the form. **Before you turn on video recording, check their form.** If you can't find it, don't record, and tell Marcus. You don't make a recording of your own, including of a session you're shadowing. To look back at a session, read its session record in the student's `sessions/` folder, and ask Priya if you need more.
 
 ## What we never say
 
@@ -52,4 +52,4 @@ These apply to everything: a session, an email, a chat message.
 
 ## Not written down here
 
-There's no written policy in this folder on late arrivals, no-shows or how much notice a reschedule needs. If a student asks, tell them Marcus handles scheduling and you'll pass it on.
+There's no written policy on late arrivals, no-shows or how much notice a reschedule needs. If a student asks, tell them Marcus handles scheduling and you'll pass it on. If you want to know yourself, ask Marcus.

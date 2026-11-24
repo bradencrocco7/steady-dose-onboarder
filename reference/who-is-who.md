@@ -2,7 +2,7 @@
 
 One job: who works at Steady Dose, what each person owns, and who to ask about what.
 
-There are three of us, plus you. Everyone is reached on Google Chat in your Steady Dose Google account. There is no phone list in this folder; if you need a number, ask Marcus.
+There are three of us, plus you. Everyone is reached on Google Chat in your Steady Dose Google account. There is no phone list; if you need a number, ask Marcus.
 
 ## The people
 
@@ -21,7 +21,7 @@ She owns: your shadowing and your first gradings; how to teach a topic that isn'
 |---|---|
 | your pay, pay dates, hours, your contract, a tax form | Marcus |
 | a login that doesn't work, or one you don't have | Marcus |
-| a student who wants to move or cancel a session | Marcus |
+| a student who wants to move or cancel a session, turns up late, or doesn't show | Marcus |
 | you're sick, or running late for your own day | Marcus, and tell Priya if you were shadowing her |
 | Marcus isn't answering and it can't wait | Braden |
 | a payment, a refund, a charge a student asks about | Marcus (and he checks with Braden) |

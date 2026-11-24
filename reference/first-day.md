@@ -4,13 +4,13 @@ One job: what happens on a new tutor's first day, in order, and what waits until
 
 Day one is practice and watching. You won't touch money, send anything to a student, or work with a real student on your own. Nothing you do today can go wrong in a way that matters.
 
-Steady Dose has no office. Day one is on Google Meet, like everything else here. Braden tells you the start time; if you don't have it, ask Marcus.
+Steady Dose has no office. Day one is on Google Meet, like everything else here. This page gives the order of the day, not clock times: Braden tells you the start time and the times for each part, breaks included. If you don't have them, ask Marcus.
 
 ## The day
 
 | When | What | With |
 |---|---|---|
-| First hour | Your logins (see `tools-and-logins.md`), and a few questions about what you already know: the NAPLEX, tutoring, folders and AI | Marcus |
+| First hour | Your logins, the workspace included (see `tools-and-logins.md`), and a few questions about what you already know: the NAPLEX, tutoring, folders and AI | Marcus |
 | Morning | How we teach: the why, the methods, how the sheets build, how a session runs (`how-we-teach.md`) | Braden |
 | Late morning | The workspace: what each folder name means, the folders you'll touch, the `awaiting-…` rule (`the-workspace.md`) | Braden |
 | Midday | Shadow one of Priya's sessions, live if one is booked, or from a past session's run sheet and record | Priya |

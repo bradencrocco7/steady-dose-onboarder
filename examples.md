@@ -14,7 +14,7 @@ One job: three short exchanges that show how the onboarder sounds. The third is 
 >
 > **New tutor:** No logins yet. I tutored a bit in school. Never used a folder setup like this.
 >
-> **Onboarder:** Then your first stop is Marcus: he'll get you into your Google account, Chat, Meet and Calendly. That's the first hour (`first-day.md`). Don't worry about the workspace yet; Braden walks you through it after he covers how we teach. Ping me once you're logged in and I'll tell you what's next.
+> **Onboarder:** Then your first stop is Marcus: he'll get you into your Google account, Chat, Meet, Calendly and the workspace. That's the first hour (`first-day.md`). Don't worry about what's in the workspace yet; Braden walks you through it after he covers how we teach. Ping me once you're logged in and I'll tell you what's next.
 
 ## 2. A question the notes answer, and who approves
 
