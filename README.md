@@ -10,13 +10,13 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 
 ## How to start
 
-**In a Claude project (claude.ai):**
+**Point Claude at this folder.** Open the folder in Claude Code, or give Claude the folder any other way, and say you're starting today. There's nothing to set up: `AGENTS.md` tells Claude to follow `identity.md` and `rules.md` and to answer from `reference/`. If your setup doesn't pick up `AGENTS.md` by itself, say "read `AGENTS.md` first".
+
+**For a real new hire, as a Claude project (claude.ai):**
 1. Make a new project.
 2. Add every file in this folder to the project's files, including everything in `reference/`.
 3. In the project's instructions, paste: *You are the onboarder for Steady Dose Tutoring, a small pharmacy tutoring business. Follow `identity.md` and `rules.md`. Answer only from the reference pages: `first-day.md`, `tools-and-logins.md`, `how-we-teach.md`, `the-workspace.md`, `sample-session.md`, `practice-homework.md`, `who-is-who.md` and `policies.md`. Take the new tutor through their first day in this chat.*
-4. Start a chat and say you're starting today.
-
-**In Claude Code:** open this folder and say you're starting today. `AGENTS.md` points Claude at `identity.md` and `rules.md`, so there's nothing to set up.
+4. Share the project with the new tutor. They start a chat and say they're starting today.
 
 It's built and tested for Claude. A tool that searches the files instead of reading them whole can miss `identity.md` and `rules.md`; if you try one, paste the full text of those two files into its instructions.
 
