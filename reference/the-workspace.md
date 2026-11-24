@@ -1,49 +1,21 @@
 # The workspace
 
-One job: what the Steady Dose workspace is, what each folder name means, and which parts a new tutor touches. Braden walks through this page with you in the late morning, after how we teach.
+One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. Braden walks through this page with you in the late morning, after how we teach.
 
-## The one sentence
+The workspace is the shared folder the business runs on. You open it in Obsidian. Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
 
-**The workspace is one big prompt, cut into pieces, and each folder name tells you which piece it is.**
-
-If you've ever typed a long prompt into ChatGPT ("You are... here is what we're working on... follow these rules... here's an example... do these steps... save it as..."), you already know every part of this folder. Here, each part lives in its own place, written once, so nobody has to type it again and Claude never has to guess.
-
-The workspace is built on ICM (Interpretable Context Methodology), made by Jake Van Clief and David McDermott. You don't need to know ICM to work here; this page is all you need on day one.
-
-## What each name means
-
-| A normal prompt says... | Here it lives in | What it holds at Steady Dose | You, on day one |
-|---|---|---|---|
-| "You are..." (who Claude is, the house rules) | `AGENTS.md` | who the business is, the rules every job follows, where to go next | read it once |
-| "Go here for this kind of work" | `CONTEXT.md` (one in most folders) | a signpost: "if the work is X, go to folder Y" | follow them |
-| "Here's where things stand today" | `STATUS.md` | the whiteboard: what's waiting for Braden, which students have gone quiet; rebuilt by a script, never edited by hand | glance at it |
-| "Follow these rules" | `_config/` | the rulebook: packages and prices, what we never say, the voice for student emails | read, never change |
-| "Here's an example to copy" | `_templates/` | blanks: a new student's folder, a session record | Priya shows you |
-| "Do step 1, then step 2..." | `operations/tutoring/CONTEXT.md` | the session loop, steps 1 to 8: grade, prep, the session, the record, the next homework | read it with Priya |
-| "Only look at this student" | the folder you're in | `operations/students/<first-last>/` holds one student; working in it means you can't mix students up | where you work |
-| "Save the result here" | each student's subfolders, and the `awaiting-…` trays | the grading goes in the student's `grading/`; anything for a student waits in `operations/email/awaiting-send/` | drop it in, never take it out |
-
-One thing that tripped Braden up: **if you read about ICM online, some people use `CONTEXT.md` as the whiteboard. Here it is always the signpost, and `STATUS.md` is the whiteboard.** Same idea, different file.
-
-## The folders, top to bottom
+## The map
 
 ```
 steady-dose/
-├── AGENTS.md            who we are, the house rules
-├── CONTEXT.md           the signpost to each department
-├── STATUS.md            the whiteboard (made by a script)
-├── _config/             the rulebook
-├── _templates/          the blanks
+├── AGENTS.md            who we are and the house rules; read it once
+├── CONTEXT.md           signposts: "for this kind of work, go to this folder"
+├── STATUS.md            the whiteboard: what's waiting, which students have gone quiet
+├── _config/             the rulebook: prices, what we never say, the voice for emails
+├── _templates/          blanks: a new student's folder, a session record
 ├── operations/          everything after a student pays (your home)
-│   ├── tutoring/          the session loop, steps 1 to 8
+│   ├── tutoring/          the session loop, steps 1 to 8; read it with Priya
 │   ├── students/          one folder per student
-│   │   └── <first-last>/
-│   │       ├── sessions/            run sheets, session records
-│   │       ├── homework-sent/       what we sent, and its key
-│   │       ├── homework-returned/   what they sent back
-│   │       ├── grading/             our grading of it
-│   │       ├── emails/              every email, once sent
-│   │       └── paperwork/           recording consent
 │   ├── curriculum/        the library: the method sheets, every worksheet and its key
 │   ├── studio/            where new sheets are made (Braden only)
 │   └── email/
@@ -55,19 +27,25 @@ steady-dose/
 └── finance/             payments and refunds (Marcus)
 ```
 
+You read `AGENTS.md`, `CONTEXT.md`, `STATUS.md` and `_config/`, but you never change them. Nobody edits `STATUS.md` by hand; a script rebuilds it.
+
+## A student's folder
+
+Each student has a folder at `operations/students/<first-last>/`. Working inside one student's folder means you can't mix students up. It has six subfolders:
+
+| Folder | Holds |
+|---|---|
+| `sessions/` | run sheets and session records |
+| `homework-sent/` | the homework we sent, and its key |
+| `homework-returned/` | what the student sent back |
+| `grading/` | our grading of it; on day one, your grading of the practice homework goes here |
+| `emails/` | every email, once it's sent |
+| `paperwork/` | the recording consent form |
+
 ## The one rule about `awaiting-…` folders
 
 Anything that waits for Braden sits in a folder whose name starts with `awaiting-`. **His moving the file out is the approval.** You may put a draft in. You never move one out, and neither does Claude. If something has been waiting a long time, tell Braden; don't move it to help.
 
-## When someone tells you something new
+## When something seems wrong or missing
 
-Everyone on the team learns things that should be kept. Where it goes depends on what kind of thing it is:
-
-| It's... | For example | Where it goes | Who puts it there |
-|---|---|---|---|
-| a fact for today | "Priya is out Thursday" | `STATUS.md` or a message | Marcus or Braden |
-| a rule from now on | "homework is due 12 hours before, not 24" | `_config/` | Braden |
-| a new check in the loop | "check the student's exam date before the prep" | a step in `operations/tutoring/CONTEXT.md` | Braden |
-| a whole new kind of work | "we're starting group sessions" | a new folder of its own | Braden |
-
-On day one and for a while after, your part is the same every time: **tell Braden.** You don't change the rulebook or the steps yourself, even when you're sure.
+A rule that looks wrong, a step that's missing, a key you think is off (tell Priya about that one too), or something new you've been told that should be kept: **tell Braden.** You don't change the rulebook, the steps or a sheet yourself, even when you're sure.

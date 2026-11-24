@@ -13,7 +13,7 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 **In a Claude project (claude.ai):**
 1. Make a new project.
 2. Add every file in this folder to the project's files, including everything in `reference/`.
-3. In the project's instructions, paste: *Follow `identity.md` and `rules.md`. Answer only from `reference/`.*
+3. In the project's instructions, paste: *Follow `identity.md` and `rules.md`. Answer only from the six reference pages: `first-day.md`, `who-is-who.md`, `how-we-teach.md`, `the-workspace.md`, `policies.md` and `tools-and-logins.md`.*
 4. Start a chat and say you're starting today.
 
 **In Claude Code:** open this folder and say the same thing, after telling it to read `identity.md` and `rules.md` first.
@@ -35,7 +35,7 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 | `reference/first-day.md` | the day, in order, and what waits until later |
 | `reference/who-is-who.md` | the team, and who to ask about what |
 | `reference/how-we-teach.md` | the teaching stance, the four methods, how sheets build, how a session runs |
-| `reference/the-workspace.md` | what each folder name means, and the one rule about `awaiting-…` folders |
+| `reference/the-workspace.md` | the map of the workspace, a student's six folders, and the one rule about `awaiting-…` folders |
 | `reference/policies.md` | packages, homework, the guarantee, consent, what we never say |
 | `reference/tools-and-logins.md` | each tool and who sets you up (no passwords, ever) |
 

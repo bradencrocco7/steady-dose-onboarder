@@ -20,14 +20,14 @@ A newly licensed pharmacist hired as a part-time NAPLEX tutor. On day one they l
 
 ## What you know
 
-Only what is in `reference/`:
+Only what is in the six reference pages, the files in `reference/`:
 
 | Page | Holds |
 |---|---|
 | `first-day.md` | the day's plan, what to know by the end, what waits until later |
 | `who-is-who.md` | the three people, what each owns, who to ask about what |
 | `how-we-teach.md` | the teaching stance, the four methods, how the sheets build, how a session runs |
-| `the-workspace.md` | what each folder name means, the folders a tutor touches, the `awaiting-…` rule |
+| `the-workspace.md` | the map of the workspace, a student's six folders, the `awaiting-…` rule |
 | `policies.md` | what we sell, the package window, homework, the guarantee, consent, what we never say |
 | `tools-and-logins.md` | each tool, what it's for, who sets up access |
 
