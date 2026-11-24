@@ -8,26 +8,27 @@ You do the whole day with the onboarder, in the chat, at your own pace. There's 
 
 ## The day
 
-Six parts, in order, about three hours in all. Stop for a break whenever you like and pick up where you left off.
+Six parts, about three hours in all. This is the usual order, and you can take them in any order you like. Stop for a break whenever you want; if you come back in a new chat, tell the onboarder which part you were on. Day one doesn't have to be done in one sitting. Anything you haven't had is still here afterwards, and day two goes ahead either way.
 
 | Part | What you do | About | The page |
 |---|---|---|---|
-| 1. Get set up | Sign in to your Google account, say hi on Chat, look at your calendar and your Calendly page, and open the workspace | 30 minutes | `tools-and-logins.md` |
-| 2. How we teach | The stance, the four methods, how the sheets build, how a session runs | 45 minutes | `how-we-teach.md` |
-| 3. The workspace | The map, a student's six folders, and the `awaiting-…` rule | 30 minutes | `the-workspace.md` |
+| 1. Get set up | Open Marcus's welcome email, sign in to your Google account, say hi on Chat, look at your calendar and your Calendly page, and open the workspace | 30 minutes | `tools-and-logins.md` |
+| 2. How we teach | The one thing Braden wishes he'd been told, then the stance, the four methods, how the sheets build, and how a session runs | 45 minutes | `how-we-teach.md` |
+| 3. The workspace | What it is, the three folders you use, and what's in a student's folder | 20 minutes | `the-workspace.md` |
 | 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
-| 5. Grade the practice homework | Grade four problems by hand, then compare your grading with a senior tutor's | 45 minutes | `practice-homework.md` |
-| 6. Wrap up | Go through the list below with the onboarder, then say on Chat that you've finished day one | 10 minutes | this page |
+| 5. Grade the practice homework | Work four problems, grade what the practice student sent back, and compare your grading with a senior tutor's | 45 minutes | `practice-homework.md` |
+| 6. Wrap up | Go through the list below with the onboarder, hear what day two is, then say in the team space on Chat that you've finished day one | 10 minutes | this page |
 
-## Before you finish today, you should be able to
+## What you leave with
 
-- Sign in to Google and open the workspace.
-- Say in a sentence what we mean by "teach the why".
-- Name the four methods and what each one is for.
-- Find a student's folder, and say what goes in each of its six subfolders.
-- Say what an `awaiting-…` folder is, and the one thing you never do with it.
-- Grade a miss the way we do: what happened, the step that catches it, and the fix.
-- Know who to ask about pay, about teaching, and about anything that goes to a student.
+The onboarder goes through these with you at the end of the day. It's a recap, so ask for any of it again.
+
+- You've signed in, and you've opened the workspace.
+- You know the one thing Braden wishes he'd been told when he started.
+- You know what "teach the why" means, and what each of the four methods is for.
+- You know the three folders you use, and where a student's homework and your grading go.
+- You can grade a miss the way we do: what happened, the step that catches it, and the fix.
+- You know who to ask about pay, about teaching, and about anything that goes to a student.
 
 ## Later, not today
 
@@ -36,15 +37,9 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 - Shadowing Priya's live sessions on Google Meet.
 - Running your own session from a run sheet.
 - Writing a run sheet and a session record.
-- Drafting a recap or homework email for Braden to approve.
-- Grading with Claude in the workspace.
+- Drafting a recap or homework email for Braden to approve and send.
 - The package window and the money-back guarantee in practice (`policies.md` has the short version).
 - The rebate and the exit call after a student's exam.
-
-## Never yours
-
-- Refunds, payments and anything in `finance/`. That's Marcus.
-- Making new sheets in `studio/`. That's Braden.
 
 ## After day one
 

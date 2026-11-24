@@ -1,37 +1,39 @@
 # The workspace
 
-One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. This is part 3 of your first day.
+One job: what the workspace is, which parts of it a new tutor uses, and what's in a student's folder. This is part 3 of your first day.
 
-The workspace is the shared folder the business runs on. It's a shared drive in Google Drive, with nothing to install (`tools-and-logins.md` has the link). Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
+The workspace is the one shared folder Steady Dose runs on. It's a shared drive in Google Drive, so it opens in your browser and there's nothing to install. Inside are folders, with plain pages in them. Every student and every sheet has its own place.
+
+You have access from day one. Marcus added you before you started, and link 4 in his welcome email opens it (`tools-and-logins.md`).
 
 ## The map
 
 ```
 steady-dose/
-├── AGENTS.md            who we are and the house rules; read it once
-├── CONTEXT.md           signposts: "for this kind of work, go to this folder"
-├── STATUS.md            the whiteboard: what's waiting, which students have gone quiet
-├── _config/             the rulebook: prices, what we never say, the voice for emails
-├── _templates/          blanks: a new student's folder, a session record
-├── operations/          everything after a student pays (your home)
-│   ├── tutoring/          the session loop, steps 1 to 8; you follow it once you run sessions
-│   ├── students/          one folder per student
-│   ├── curriculum/        the library: the method sheets, every worksheet and its key
-│   ├── studio/            where new sheets are made (Braden only)
-│   └── email/
-│       ├── awaiting-send/     drafts waiting for Braden
-│       ├── approved-to-send/  Braden moved it here: it goes out
-│       └── discarded/         Braden said no
-├── sales/               leads and the free consult (Braden)
-├── marketing/           posts and the website (Braden)
-└── finance/             payments and refunds (Marcus)
+├── onboarder/                               the onboarder you're chatting with
+│   ├── README.md, AGENTS.md, CLAUDE.md      how it's set up
+│   ├── identity.md, rules.md, examples.md   who it is and how it answers
+│   └── reference/                           its notes: every answer it gives comes from a page in here
+├── students/                                one folder per student; this is where you work
+│   └── practice-student/                    made up, and set out like a real student's
+├── curriculum/                              the library: the method sheets, and every worksheet with its key
+└── sales/, marketing/, finance/             the business side: Braden's and Marcus's
 ```
 
-You read `AGENTS.md`, `CONTEXT.md`, `STATUS.md` and `_config/`, but you never change them. Nobody edits `STATUS.md` by hand; a script rebuilds it.
+## What each folder is to you
+
+| Folder | What it is to you |
+|---|---|
+| `onboarder/` | The one you've been using all day. The onboarder is a folder of pages like everything else here, and this page is one of them. It's still here after today, for anything in its notes. |
+| `students/` | Where you work. Each student has their own folder, so one student's work never mixes with another's. Today the only one you need is `practice-student/`. |
+| `curriculum/` | Where you look things up: the full method sheets, the worksheets and their keys. Braden writes it. |
+| `sales/`, `marketing/`, `finance/` | The business side. They aren't yours to open, and you don't need them. |
+
+You read everything in the first three. The only places you write are inside a student's folder: your gradings go in `grading/` from day two, and later your run sheets and session records go in `sessions/`. Today you change nothing, because everything day one needs is in the chat.
 
 ## A student's folder
 
-Each student has a folder at `operations/students/<first-last>/`. Working inside one student's folder means you can't mix students up. It has six subfolders:
+Each student has a folder at `students/<first-last>/`. It has six subfolders:
 
 | Folder | Holds |
 |---|---|
@@ -39,15 +41,7 @@ Each student has a folder at `operations/students/<first-last>/`. Working inside
 | `homework-sent/` | the homework we sent, with its key kept beside it for grading; the key itself is never sent |
 | `homework-returned/` | what the student sent back |
 | `grading/` | our grading of it |
-| `emails/` | every email to and from the student; ours are filed once they're sent |
+| `emails/` | every email to and from the student |
 | `paperwork/` | the recording consent form |
 
-The practice student's folder is `operations/students/practice-student/`. It's set out like any real student's: its last run sheet and session record are in its `sessions/` (also on `sample-session.md`), the homework you grade on day one is in its `homework-returned/`, and the key is in its `homework-sent/` (the homework, the key and how to grade are all on `practice-homework.md`, so you grade it in the chat).
-
-## The one rule about `awaiting-…` folders
-
-Anything that waits for Braden sits in a folder whose name starts with `awaiting-`. **His moving the file out is the approval.** You may put a draft in. You never move one out, and neither does Claude. If something has been waiting a long time, tell Braden; don't move it to help.
-
-## When something seems wrong or missing
-
-A rule that looks wrong, a step that's missing, a key you think is off (tell Priya about that one too), or something new you've been told that should be kept: **tell Braden.** You don't change the rulebook, the steps or a sheet yourself, even when you're sure.
+The practice student's folder is `students/practice-student/`. It's set out like any real student's. Its last run sheet and session record are in `sessions/`, the homework you grade today is in `homework-returned/`, and the key is in `homework-sent/`. All of it is in the onboarder's notes too (`sample-session.md` and `practice-homework.md`), so you do parts 4 and 5 in the chat.

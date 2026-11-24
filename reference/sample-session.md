@@ -2,7 +2,7 @@
 
 One job: the practice student's last session, on paper, so a new tutor can see how a session runs before they ever watch a live one. This is part 4 of your first day.
 
-It has the run sheet Priya wrote before the session and the session record she wrote after. In the workspace, both are in `operations/students/practice-student/sessions/`. The practice student is made up. Everything else is how a session here really runs (`how-we-teach.md`). Shadowing a live session starts after day one.
+It has the run sheet Priya wrote before the session and the session record she wrote after. In the workspace, both are in `students/practice-student/sessions/`. The practice student is made up. Everything else is how a session here really runs (`how-we-teach.md`). Shadowing a live session starts after day one.
 
 ## What to look for
 
@@ -92,7 +92,7 @@ For next session: drip rate is open and dose volume is shaky, so both go on the 
 Try to find all six yourself first. Then check:
 
 1. The open leads with percent strength, which they closed since session 1.
-2. Their rounding question took the first 15 minutes, ahead of miss 1.
+2. Their rounding question came straight after the open and took 15 minutes, ahead of miss 1.
 3. Misses 1, 2 and 3 are each planned as the same five steps.
 4. In the minute of the session, Priya never says "wrong". She reads back what the student wrote.
 5. In the same minute: "What unit does the question want?" and "So which unit has to cancel?"

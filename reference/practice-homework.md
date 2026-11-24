@@ -1,8 +1,8 @@
 # The practice homework
 
-One job: the homework a new tutor grades on day one, how to grade it, and Priya's grading of the same homework to compare with. This is part 5 of your first day. "By hand" means you work each problem and write the grading yourself; Claude in the workspace isn't used today.
+One job: the homework a new tutor grades on day one, how to grade it, and Priya's grading of the same homework to compare with. This is part 5 of your first day.
 
-The practice student is made up, so nothing here can reach a real student. In the workspace it all sits in `operations/students/practice-student/`: the homework and its key in `homework-sent/`, and what the student sent back in `homework-returned/`. Everything is also on this page, so you do the whole thing right here in the chat.
+The practice student is made up, so nothing here can reach a real student. In the workspace it all sits in `students/practice-student/`: the homework and its key in `homework-sent/`, and what the student sent back in `homework-returned/`. Everything is also on this page, so you do the whole thing right here in the chat.
 
 ## The homework: Calculations practice 1
 
@@ -25,7 +25,7 @@ The practice student is made up, so nothing here can reach a real student. In th
 Take one problem at a time.
 
 1. Work the problem yourself first, with calc-CARE (`how-we-teach.md`), before you look at the key.
-2. Check your answer against the key. If they disagree, work it once more. A key that still looks wrong goes to Braden; you never change one yourself.
+2. Check your answer against the key. If they disagree, work it once more. A key that still looks wrong goes to Braden, and you tell Priya too; you never change one yourself.
 3. Put the student's work and answer next to the key.
 4. If they match, write "got it".
 5. If it's a miss, write three things:
@@ -72,4 +72,8 @@ Read this only after you've written your own.
 
 ## When you've compared
 
-If your grading and Priya's differ, that's what this part is for. Go through the differences with the onboarder. If you still think yours is right, that's a grading question for Priya (`who-is-who.md`). There's nothing to save today; gradings of real homework go in the student's `grading/` folder, from day two.
+If your grading and Priya's differ, that's what this part is for. The onboarder shows you the two side by side.
+
+More than one calc-CARE step can catch the same miss. If you named a different step from Priya's and can say how it would have caught the miss, your grading is fine. What has to agree is the answer on the key and what happened.
+
+If you still think yours is right and hers isn't, that's a grading question for Priya (`who-is-who.md`). There's nothing to save today; gradings of real homework go in the student's `grading/` folder, from day two.
