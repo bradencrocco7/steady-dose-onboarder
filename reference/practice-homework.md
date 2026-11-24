@@ -1,6 +1,6 @@
 # The practice homework
 
-One job: the homework a new tutor grades on day one, how to grade it, and Priya's grading of the same homework to compare with. This is part 5 of your first day.
+One job: the homework a new tutor grades on day one, how to grade it, and Priya's grading of the same homework to compare with. This is part 5 of your first day. "By hand" means you work each problem and write the grading yourself; Claude in the workspace isn't used today.
 
 The practice student is made up, so nothing here can reach a real student. In the workspace it all sits in `operations/students/practice-student/`: the homework and its key in `homework-sent/`, what the student sent back in `homework-returned/`, and your grading goes in `grading/`. Everything is also on this page, so you can do the whole thing right here in the chat.
 
@@ -72,4 +72,6 @@ Read this only after you've written your own.
 
 ## When you've compared
 
-If your grading and Priya's differ, that's what the afternoon is for. Tell Priya where they differ and she'll go through it with you. Where to save your grading in the workspace is in `tools-and-logins.md`, step 5.
+If your grading and Priya's differ, that's what this part is for. Tell Priya where they differ and she'll go through it with you.
+
+To save your grading in the workspace: in Obsidian, right-click the practice student's `grading/` folder, choose "New note", and name it `practice-1-` followed by your first name.

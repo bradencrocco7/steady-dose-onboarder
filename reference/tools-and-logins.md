@@ -22,7 +22,7 @@ This is part 1 of your first day. Do the five in order. Each one takes a few min
 ### 1. Your Google account
 
 1. Find the invite email. Marcus sent it to your personal email before day one. It has your new Steady Dose address and a link to sign in.
-2. Open the link, set your own password, and save it in your password manager.
+2. Open the link, set your own password, and save it in your password manager (the one built into your browser or phone is fine).
 3. You're in when you can see your Steady Dose inbox in Gmail.
 
 ### 2. Google Chat
@@ -46,7 +46,7 @@ This is part 1 of your first day. Do the five in order. Each one takes a few min
 
 Obsidian is a free notes app. It opens a folder of plain text pages and shows them as a list you can click through. The workspace is that folder. Obsidian is only the window you read it in.
 
-1. Install Google Drive for desktop and sign in with your Steady Dose account. The shared drive called Steady Dose now shows up on your computer like any other folder.
+1. Install Google Drive for desktop from google.com/drive/download and sign in with your Steady Dose account. The steps are the same on a Mac and on Windows. The shared drive called Steady Dose now shows up on your computer: look under Google Drive, then Shared drives, in Finder or File Explorer.
 2. Install Obsidian from obsidian.md. It's free, and you don't need an Obsidian account.
 3. Open Obsidian, choose "Open folder as vault", and pick the `steady-dose` folder inside the shared drive.
 4. The list of folders on the left matches the map in `the-workspace.md`. Click any page to read it. The magnifying glass searches every page for a word.

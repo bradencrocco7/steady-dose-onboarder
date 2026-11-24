@@ -1,6 +1,6 @@
 # The workspace
 
-One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. Braden walks through this page with you in the late morning, after how we teach.
+One job: where things are in the Steady Dose workspace, which parts a new tutor touches, and the one rule about `awaiting-…` folders. This is part 3 of your first day. Braden walks through it with you, after how we teach.
 
 The workspace is the shared folder the business runs on. You open it in Obsidian (`tools-and-logins.md` has the steps). Every student, every sheet and every step lives in it, each in its own place. It's built on ICM (Interpretable Context Methodology, by Jake Van Clief and David McDermott), but you don't need to know ICM to work here.
 

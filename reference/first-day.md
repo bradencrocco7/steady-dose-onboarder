@@ -6,7 +6,7 @@ Day one is practice and watching. You won't touch money, send anything to a stud
 
 Steady Dose has no office. Day one is on Google Meet, like everything else here. This page gives the order of the day, not clock times. Braden emails you the start time before day one, and once you're signed in, each part of the day is on your Google Calendar with its time, breaks included. If you don't have a start time, ask Marcus.
 
-Every part has a page behind it, so the onboarder can take you through any part itself, in the chat, whenever you're ready. The person named does that part with you live, and is who to ask about it.
+Parts 1 to 5 each have a page behind them, so the onboarder can take you through any of them itself, in the chat, whenever you're ready. The person named does that part with you live, and is who to ask about it.
 
 ## The day
 

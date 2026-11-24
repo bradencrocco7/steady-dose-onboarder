@@ -19,7 +19,7 @@ It's on your Google Calendar. Click the event, then "Join with Google Meet". You
 
 ## The run sheet (written before the session)
 
-Session 2 of 3, Math Package. Homework graded: the diagnostic, with three misses to cover.
+Session 2 of 3, Math Package. Homework graded: the calculations teaching sheet, with three misses to cover.
 
 | Part | Minutes | Plan |
 |---|---|---|
@@ -54,18 +54,42 @@ Session 2 of 3, Math Package. Homework graded: the diagnostic, with three misses
 4. What they wrote next to what it should be: 1,500 drops/min, next to 25 drops/min.
 5. A fresh problem to work out loud: "500 mL over 4 hours, with a 20 drops/mL set." (42 drops/min)
 
+## A minute of the session: miss 2
+
+> **Priya:** Here's what you wrote: 250 ÷ 300 × 5. Read me the unit on each number.
+>
+> **Student:** 250 milligrams, 300 milligrams, and 5 mL.
+>
+> **Priya:** Good. What unit does the question want?
+>
+> **Student:** mL.
+>
+> **Priya:** So which unit has to cancel?
+>
+> **Student:** The milligrams. Oh. I've got them upside down. It should be 300 over 250.
+>
+> **Priya:** Try it that way.
+>
+> **Student:** 300 ÷ 250 × 5 is 6 mL.
+>
+> **Priya:** Does 6 mL make sense? The order is a bit more than what's in one 5 mL spoonful.
+>
+> **Student:** Yes. A bit more than 5.
+>
+> **Priya:** That's it. New one, out loud this time: the order is 400 mg, and the suspension is 200 mg per 5 mL.
+
 ## The session record (written after)
 
 | Part | Planned | What happened |
 |---|---|---|
 | Open | 3 | 3 minutes. The exam is booked. |
-| Their questions | 8 | 15 minutes. Rounding took longer than planned. |
+| Their questions | 8 | 15 minutes. Rounding took longer than planned. Where they landed: carry every digit to the last step, then round to what the question asks for. |
 | Miss 1, ratio strength | 15 | 16 minutes. **Got it.** Worked 1:10,000 out loud with no help. |
 | Miss 2, dose volume | 15 | 22 minutes. **Shaky.** Got the fresh problem after one question about the units. |
 | Miss 3, drip rate | 15 | Not reached. Cut, as the run sheet said. **Open.** |
-| Close | 4 | 4 minutes. Still fuzzy: when to round. Habit for the exam: write the unit the question asks for at the top before starting. |
+| Close | 4 | 4 minutes. Still fuzzy: what to do when the question doesn't say how to round. Habit for the exam: write the unit the question asks for at the top before starting. |
 
-For next session: drip rate is open and dose volume is shaky, so both go on the next run sheet. Homework sent after this session: Calculations practice 1. It has come back, and it's the one you grade today (`practice-homework.md`).
+For next session: drip rate is open and dose volume is shaky, so both go on the next run sheet. Homework sent after this session: a re-drill on drip rate and dose volume, and Calculations practice 1. Practice 1 has come back, and it's the one you grade today (`practice-homework.md`).
 
 ## After you've read it
 

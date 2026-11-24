@@ -29,7 +29,7 @@ It's built and tested for Claude. A tool that searches the files instead of read
 
 ## What the day looks like
 
-Six parts, and every one can be done in the chat: get set up, how we teach, the workspace, watch a session, grade a practice homework, wrap up. The folder holds a past session to read and a practice homework with a student's answers, the key, and a senior tutor's grading to compare with yours. The real people are there for what the folder doesn't cover.
+Six parts: get set up, how we teach, the workspace, watch a session, grade a practice homework, wrap up. Everything up to the wrap-up can be done in the chat, with no real accounts needed for parts 2 to 5. The folder holds a past session to read and a practice homework with a student's answers, the key, and a senior tutor's grading to compare with yours. The real people are there for what the folder doesn't cover.
 
 ## What's in the folder
 

@@ -1,6 +1,6 @@
 # How we teach
 
-One job: what a new tutor at Steady Dose needs to know about how we teach, on day one. Braden walks through this page with you in the morning. You don't need to remember it all today; you'll see it again in Priya's session at midday.
+One job: what a new tutor at Steady Dose needs to know about how we teach, on day one. Braden walks through this page with you in the morning. You don't need to remember it all today; you'll see it again when you watch a session in part 4.
 
 ## The stance
 
@@ -48,7 +48,7 @@ Sessions are 60 minutes on Google Meet. Before each one, the tutor has a **run s
   3. The fix, as one short rule.
   4. What they wrote next to what it should be.
   5. A fresh problem they work out loud while you ask questions.
-- **No scores.** Show what they did next to what the question asks for; don't mark it wrong. Tell them the right answer only if they ask. The key itself is never sent.
+- **No scores.** Show what they did next to what the question asks for; don't mark it wrong. The key itself is never sent.
 - **Close (about 4 minutes).** Ask what's still fuzzy. Give one habit to take into the exam.
 - **After.** Write the session record: each gap marked **got it**, **shaky** or **open**, and how the session compared with the run sheet. If you ran long or didn't reach a part, say so. That's normal, and the next session plans from it.
 
