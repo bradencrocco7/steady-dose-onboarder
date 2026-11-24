@@ -22,9 +22,13 @@ She owns: your shadowing and your first gradings; how to teach a topic that isn'
 | your pay, pay dates, hours, a tax form | Marcus |
 | a login that doesn't work, or one you don't have | Marcus |
 | a student who wants to move or cancel a session | Marcus |
+| you're sick, or running late for your own day | Marcus, and tell Priya if you were shadowing her |
+| Marcus isn't answering and it can't wait | Braden |
 | a payment, a refund, a charge a student asks about | Marcus (and he checks with Braden) |
 | how to explain a topic, or how a method works | Priya first, then Braden |
 | a grading question, or whether an answer counts | Priya |
+| the session you were meant to shadow got cancelled | Priya; she'll use a past session's run sheet and record instead |
+| Claude in the workspace gives an answer that looks wrong | Priya if it's about grading, Braden for anything else |
 | a key that looks wrong | Braden, and tell Priya too |
 | a student who is stuck, upset or far behind | Priya, and she brings in Braden if needed |
 | anything going to a student: an email, homework, a recap | Braden (you leave a draft in `awaiting-send/`) |
