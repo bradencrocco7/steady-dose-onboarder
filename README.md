@@ -12,7 +12,7 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 
 **In a Claude project (claude.ai):**
 1. Make a new project.
-2. Add every file in this folder to the project's files, including everything in `reference/`. Leave out `extras/`.
+2. Add every file in this folder to the project's files, including everything in `reference/`.
 3. In the project's instructions, paste: *Follow `identity.md` and `rules.md`. Answer only from `reference/`.*
 4. Start a chat and say you're starting today.
 
@@ -38,7 +38,6 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 | `reference/the-workspace.md` | what each folder name means, and the one rule about `awaiting-…` folders |
 | `reference/policies.md` | packages, homework, the guarantee, consent, what we never say |
 | `reference/tools-and-logins.md` | each tool and who sets you up (no passwords, ever) |
-| `extras/` | three one-page pictures of ICM in general, for people curious about the method; not part of what the onboarder answers from, and some names differ from this workspace |
 
 ## The one thing I wish I'd been told
 

@@ -71,7 +71,3 @@ Everyone on the team learns things that should be kept. Where it goes depends on
 | a whole new kind of work | "we're starting group sessions" | a new folder of its own | Braden |
 
 On day one and for a while after, your part is the same every time: **tell Braden.** You don't change the rulebook or the steps yourself, even when you're sure.
-
-## If you want the pictures
-
-Braden drew three one-page sheets of the ICM idea when he was learning it himself. Ask him for them. They show ICM in general, so a few names differ from ours; for Steady Dose, this page is the one to go by.
