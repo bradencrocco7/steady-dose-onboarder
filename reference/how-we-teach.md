@@ -18,7 +18,7 @@ These are Braden's own methods, and every sheet and session uses them. Here is e
 
 | Method | For | The steps |
 |---|---|---|
-| **calc-CARE** | every calculation, after the math | **C**lassify: what is it asking for, in what unit, rounded how? · **A**nalyze: set it up so the units cancel to the answer's unit · **R**eview: is the answer real, or is it 10 times off? · **E**xecute: commit, once |
+| **calc-CARE** | every calculation | **C**lassify: what is it asking for, in what unit, rounded how? · **A**nalyze: set it up so the units cancel to the answer's unit · **R**eview: is the answer real, or is it 10 times off? · **E**xecute: commit, once |
 | **STAT** | picking a statistics test | **S**pot the outcome's data type (a count, a rank or a measurement) · **T**ally the groups and whether they're the same people or different people · **A**nalyze the shape (normal or skewed, measurements only) · **T**est name: read it off the table |
 | **CASE** | clinical case questions | **C**heck the question at the bottom first · **A**ssess what rules a drug out (allergies, kidneys, liver, pregnancy) · **S**elect first-line from what's left · **E**valuate for interactions and duplicates |
 | **MAPP** | learning a drug class | the class pattern first and why it happens, then the main uses and pearls, then the detail later; understanding before coverage. This page gives MAPP's idea, not its letters; for those, see the full method sheet with Priya |
