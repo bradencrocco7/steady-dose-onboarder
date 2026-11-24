@@ -41,7 +41,7 @@ A newly licensed pharmacist starting as a part-time tutor. You may have tutored 
 
 ## The one thing I wish I'd been told
 
-What all the folder names meant, and what each one held. When I first learned to run my business on a workspace like this, the names were the wall. What finally made it click: the folder is one big prompt cut into pieces, and each folder name tells you which piece it is. That's `reference/the-workspace.md`.
+When I started tutoring, I thought one good explanation would work for every student. It doesn't. The principles stay the same; the explanation changes. If it isn't landing, try it another way instead of saying it again slower. That's in `reference/how-we-teach.md`.
 
 ## Credit
 
