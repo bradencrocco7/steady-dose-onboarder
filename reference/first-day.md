@@ -14,8 +14,8 @@ Steady Dose has no office. Day one is on Google Meet, like everything else here.
 | Morning | How we teach: the why, the methods, how the sheets build, how a session runs (`how-we-teach.md`) | Braden |
 | Late morning | The workspace: what each folder name means, the folders you'll touch, the `awaiting-…` rule (`the-workspace.md`) | Braden |
 | Midday | Shadow one of Priya's sessions, live if one is booked, or from a past session's run sheet and record | Priya |
-| Afternoon | Grade one practice homework against its key, using the method steps, and save your grading in the practice student's `grading/` folder | Priya checks it |
-| End of day | What's waiting for you tomorrow, and anything you want to ask again | Claude, then Braden |
+| Afternoon | Grade one practice homework by hand against its key. `the-workspace.md` says where the homework, the key and your grading go | Priya shows you what a finished grading looks like, then checks yours |
+| End of day | Anything you want to ask again, then what's next for you tomorrow | the onboarder for your questions, Braden for tomorrow |
 
 ## Before you leave today, you should be able to
 
@@ -33,6 +33,7 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 - Running your own session from a run sheet.
 - Writing a run sheet and a session record.
 - Drafting a recap or homework email for Braden to approve.
+- Grading with Claude in the workspace (Priya shows you).
 - The package window and the money-back guarantee in practice (`policies.md` has the short version).
 - The rebate and the exit call after a student's exam.
 - Refunds, payments and anything in `finance/` (Marcus only).

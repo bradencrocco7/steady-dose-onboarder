@@ -38,7 +38,7 @@ After their exam, a student can earn back $50 (Math Package) or $100 (Full NAPLE
 
 ## Session notes and recording
 
-Before the first session, every student signs a consent form, kept in their `paperwork/` folder. Written notes from each session's audio are a condition of tutoring. Video recording is optional; the student chooses on the form. **Before you record anything, check their form.** If you can't find it, don't record, and tell Marcus.
+Before the first session, every student signs a consent form, kept in their `paperwork/` folder. Written notes from each session's audio are a condition of tutoring. Video recording is optional; the student chooses on the form. **Before you turn on video recording, check their form.** If you can't find it, don't record, and tell Marcus.
 
 ## What we never say
 

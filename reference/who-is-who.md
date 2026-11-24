@@ -6,11 +6,11 @@ There are three of us, plus you. Everyone is reached on Google Chat in your Stea
 
 ## The people
 
-**Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so he's on Chat in the evenings and on weekends; a message during the day gets an answer that night.
+**Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so on a normal day he's on Chat in the evenings and on weekends, and a message during the day gets an answer that night. On your first day he's with you all morning.
 He owns: how we teach and the methods; the library of sheets and keys; anything that goes to a student (he approves every send); the rulebook (`_config/`) and the workspace itself; new students, the free consult and marketing.
 
 **Marcus Lee: operations and scheduling.** He handles the business side day to day.
-He owns: your pay, hours and tax forms; logins and accounts; the calendar and booking links; a student who wants to reschedule; payments and refunds (he processes them); the shared inbox.
+He owns: your pay, hours, contract and tax forms; logins and accounts; the calendar and booking links; a student who wants to reschedule; payments and refunds (he processes them); the shared inbox.
 
 **Priya Raman, PharmD: senior tutor.** She's been tutoring here the longest after Braden.
 She owns: your shadowing and your first gradings; how to teach a topic that isn't landing; grading questions; a student who is stuck, upset or falling behind.
@@ -19,13 +19,14 @@ She owns: your shadowing and your first gradings; how to teach a topic that isn'
 
 | If it's about... | Ask |
 |---|---|
-| your pay, pay dates, hours, a tax form | Marcus |
+| your pay, pay dates, hours, your contract, a tax form | Marcus |
 | a login that doesn't work, or one you don't have | Marcus |
 | a student who wants to move or cancel a session | Marcus |
 | you're sick, or running late for your own day | Marcus, and tell Priya if you were shadowing her |
 | Marcus isn't answering and it can't wait | Braden |
 | a payment, a refund, a charge a student asks about | Marcus (and he checks with Braden) |
 | how to explain a topic, or how a method works | Priya first, then Braden |
+| a fact about the exam itself, such as the passing score or the format | Priya |
 | a grading question, or whether an answer counts | Priya |
 | the session you were meant to shadow got cancelled | Priya; she'll use a past session's run sheet and record instead |
 | Claude in the workspace gives an answer that looks wrong | Priya if it's about grading, Braden for anything else |

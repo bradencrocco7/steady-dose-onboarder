@@ -10,8 +10,10 @@ One job: each tool a tutor uses, what it's for, and who sets up your access. **N
 | **Google Chat** | messaging the team | comes with your Google account | say hi to Braden, Marcus and Priya |
 | **Google Meet** | every session; notes are made from the session audio | comes with your Google account | join Priya's session from the calendar invite |
 | **Calendly** | students book sessions on your booking page | Marcus makes your page | look at it; Marcus turns it on when you're ready to take students |
-| **The workspace** (opened in Obsidian) | the shared folder that runs the business: students, the loop, the library | Braden shares the folder; you install Obsidian (free) and open it | follow `the-workspace.md` |
-| **Claude** | works inside the workspace: grades against the key, drafts run sheets and records, answers "where is…" | Braden sets up your access | ask it where things are |
+| **The workspace** (opened in Obsidian) | the shared folder that runs the business: students, the loop, the library | Marcus shares the folder; you install Obsidian (free) and open it | follow `the-workspace.md` |
+| **Claude** | works inside the workspace: grades against the key, drafts run sheets and records, answers "where is…" | Marcus sets up your access | ask it where things are; you grade by hand today, and Priya shows you grading with Claude in your first weeks |
+
+The Claude inside the workspace is not the onboarder you chat with on day one. The onboarder has only its own notes and can't see the workspace.
 
 ## What you won't have, and why
 

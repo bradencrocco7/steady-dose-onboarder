@@ -36,11 +36,13 @@ Each student has a folder at `operations/students/<first-last>/`. Working inside
 | Folder | Holds |
 |---|---|
 | `sessions/` | run sheets and session records |
-| `homework-sent/` | the homework we sent, and its key |
+| `homework-sent/` | the homework we sent, and its key; this is the key you grade against |
 | `homework-returned/` | what the student sent back |
 | `grading/` | our grading of it; on day one, your grading of the practice homework goes here |
 | `emails/` | every email, once it's sent |
 | `paperwork/` | the recording consent form |
+
+The practice student's folder is `operations/students/practice-student/`. It's set out like any real student's: the homework you grade on day one is in its `homework-returned/`, the key is in its `homework-sent/`, and your grading goes in its `grading/`.
 
 ## The one rule about `awaiting-…` folders
 
