@@ -9,7 +9,7 @@ There are three of us, plus you. Everyone is reached on Google Chat in your Stea
 **Braden Crocco, PharmD: owner and lead tutor.** He started Steady Dose. He works full time as a hospital pharmacist, so he's on Chat in the evenings and on weekends; a message during the day gets an answer that night.
 He owns: how we teach and the methods; the library of sheets and keys; anything that goes to a student (he approves every send); the rulebook (`_config/`) and the workspace itself; new students, the free consult and marketing.
 
-**Marcus Lee: office and scheduling.** He keeps the business running day to day.
+**Marcus Lee: office and scheduling.** He runs the office day to day.
 He owns: your pay, hours and tax forms; logins and accounts; the calendar and booking links; a student who wants to reschedule; payments and refunds (he processes them); the shared inbox.
 
 **Priya Raman, PharmD: senior tutor.** She's been tutoring here the longest after Braden.

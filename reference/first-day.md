@@ -10,12 +10,12 @@ Braden tells you the start time and whether you're joining in person or on Googl
 
 | When | What | With |
 |---|---|---|
-| **First hour** | Your logins (see `tools-and-logins.md`), and a few questions about what you already know: the NAPLEX, tutoring, folders and AI | Marcus |
-| **Morning** | How we teach: the why, the methods, how the sheets build, how a session runs (`how-we-teach.md`) | Braden |
-| **Late morning** | The workspace: what each folder name means, the folders you'll touch, the `awaiting-…` rule (`the-workspace.md`) | Braden |
-| **Midday** | Shadow one of Priya's sessions, live if one is booked, or from a past session's run sheet and record | Priya |
-| **Afternoon** | Grade one practice homework against its key, using the method steps, and save your grading in the practice student's `grading/` folder | Priya checks it |
-| **End of day** | What's waiting for you tomorrow, and anything you want to ask again | Claude, then Braden |
+| First hour | Your logins (see `tools-and-logins.md`), and a few questions about what you already know: the NAPLEX, tutoring, folders and AI | Marcus |
+| Morning | How we teach: the why, the methods, how the sheets build, how a session runs (`how-we-teach.md`) | Braden |
+| Late morning | The workspace: what each folder name means, the folders you'll touch, the `awaiting-…` rule (`the-workspace.md`) | Braden |
+| Midday | Shadow one of Priya's sessions, live if one is booked, or from a past session's run sheet and record | Priya |
+| Afternoon | Grade one practice homework against its key, using the method steps, and save your grading in the practice student's `grading/` folder | Priya checks it |
+| End of day | What's waiting for you tomorrow, and anything you want to ask again | Claude, then Braden |
 
 ## Before you leave today, you should be able to
 

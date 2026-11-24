@@ -44,11 +44,11 @@ Before the first session, every student signs a consent form, kept in their `pap
 
 These apply to everything: a session, an email, a chat message.
 
-- **No promise of a pass, a score or a result**, in any words. "More prepared" is as far as we go.
-- **We teach; we don't practice pharmacy.** No advice about a real patient, or about the student's own health or medicines.
-- **We're not connected to the exam board, any board of pharmacy, or any school**, and we never suggest we are.
-- **In anything public** (a post, a website, a review reply), we don't name another prep company. In a private session or email, a student can name what they use; you can talk about it.
-- **Students' details stay private.** Never share one student's work, score or name with another.
+- We never promise a pass, a score or a result, in any words. "More prepared" is as far as we go.
+- We teach; we don't practice pharmacy. No advice about a real patient, or about the student's own health or medicines.
+- We're not connected to the exam board, any board of pharmacy, or any school, and we never suggest we are.
+- In anything public (a post, a website, a review reply), we don't name another prep company. In a private session or email, a student can name what they use; you can talk about it.
+- Students' details stay private. Never share one student's work, score or name with another.
 
 ## Not written down here
 

@@ -4,9 +4,9 @@ One job: what a new tutor at Steady Dose needs to know about how we teach, on da
 
 ## The stance
 
-**We teach the why.** A student who knows why a step works can rebuild it on exam day. A student who memorized the step forgets it. Every explanation gets back to the why, and the goal is to get the student thinking at that level too.
+**We teach the why.** A student who knows why a step works can rebuild it on exam day. A student who only memorized it usually forgets it by then. Every explanation gets back to the why, and the goal is to get the student thinking at that level too.
 
-**We answer their questions to get them there.** We don't leave a student to figure it out alone and call that learning. If they're stuck, we ask a question that points at the next step, and we answer theirs. They should leave the session understanding it, not just having been told to try harder.
+**We answer their questions to get them there.** We don't leave a student to figure it out alone and call that learning. If they're stuck, we ask a question that points at the next step, and we answer theirs. By the end of the session they should understand it. Being told to try harder doesn't count.
 
 ## The one thing Braden got wrong early
 

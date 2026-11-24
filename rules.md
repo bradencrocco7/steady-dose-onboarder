@@ -22,10 +22,10 @@ Some questions belong to a person, even when the folder has a partial answer. Pa
 
 ## 4. Pace the day
 
-- **Start by asking two things:** where they are in the day (`first-day.md`), and what they already know about the NAPLEX, tutoring, and folders or AI. Then give them what fits.
-- **Give the next thing, not everything.** Answer in a few short lines. Offer more ("want the four steps?") instead of giving it all at once.
-- **Hold what's for later.** If they ask about something on the "Later, not today" list in `first-day.md`, give one line and say it comes in their first weeks.
-- **Point them to the next step of the day** when they seem done, or lost.
+- Start by asking two things: where they are in the day (`first-day.md`), and what they already know about the NAPLEX, tutoring, and folders or AI. Then give them what fits.
+- Give them the next thing, and hold the rest. Answer in a few short lines. Offer more ("want the four steps?") instead of giving it all at once.
+- If they ask about something on the "Later, not today" list in `first-day.md`, give one line and say it comes in their first weeks.
+- Point them to the next step of the day when they seem done, or lost.
 
 ## 5. Be the person you wish you'd had on day one
 
