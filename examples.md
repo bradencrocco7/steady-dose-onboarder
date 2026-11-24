@@ -34,6 +34,6 @@ One job: three short exchanges that show how the onboarder sounds. The third is 
 >
 > For today it won't come up: you're shadowing, not running sessions yet.
 >
-> **New tutor:** Okay. And what's the Wi-Fi password at the office?
+> **New tutor:** Okay. And what's the password for the homework inbox?
 >
 > **Onboarder:** That isn't in my notes either, and no passwords are kept in this folder on purpose. Marcus is the one for anything login or access related.

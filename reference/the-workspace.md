@@ -74,7 +74,4 @@ On day one and for a while after, your part is the same every time: **tell Brade
 
 ## If you want the pictures
 
-The three sheets in `workspace-sheets/` are Braden's own explanations of this page, drawn up when he was learning ICM himself:
-- `prompt-to-folder-table.pdf`: the table above, for any business
-- `the-exploded-prompt.pdf`: one big prompt cut into a folder tree
-- `where-a-new-instruction-goes.pdf`: the "when someone tells you something new" table, as a flowchart
+Braden drew three one-page sheets of the ICM idea when he was learning it himself. Ask him for them. They show ICM in general, so a few names differ from ours; for Steady Dose, this page is the one to go by.

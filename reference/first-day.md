@@ -4,7 +4,7 @@ One job: what happens on a new tutor's first day, in order, and what waits until
 
 Day one is practice and watching. You won't touch money, send anything to a student, or work with a real student on your own. Nothing you do today can go wrong in a way that matters.
 
-Braden tells you the start time and whether you're joining in person or on Google Meet. If you don't have it, ask Marcus.
+Steady Dose has no office. Day one is on Google Meet, like everything else here. Braden tells you the start time; if you don't have it, ask Marcus.
 
 ## The day
 
