@@ -4,7 +4,7 @@ One job: what the workspace is, which parts of it a new tutor uses, and what's i
 
 The workspace is the one shared folder Steady Dose runs on. It's a shared drive in Google Drive, so it opens in your browser and there's nothing to install. Inside are folders, with plain pages in them. Every student and every sheet has its own place.
 
-You have access from day one. Marcus added you before you started, and link 4 in his welcome email opens it (`tools-and-logins.md`).
+You have access from day one. Marcus added you to the shared drive, `steady-dose`, before you started, and you find it in Google Drive, under "Shared drives" (`tools-and-logins.md`).
 
 ## The map
 

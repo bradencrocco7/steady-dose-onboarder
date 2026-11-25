@@ -2,7 +2,7 @@
 
 One job: who works at Steady Dose, what each person owns, and who to ask about what.
 
-Three people work at Steady Dose, plus you. You do day one with the onboarder; the three of them are who you ask when it can't answer, or when something is theirs to decide. Everyone is reached on Google Chat in your Steady Dose Google account. There is no phone list; if you need a number, ask Marcus.
+Three people work at Steady Dose, plus you. You do day one with the onboarder; the three of them are who you ask when it can't answer, or when something is theirs to decide. Everyone is reached on Google Chat in your Steady Dose Google account. If you can't get into Chat, each person's email is their first name, then `@fake-steadydose.example`. There is no phone list; if you need a number, ask Marcus.
 
 ## The people
 

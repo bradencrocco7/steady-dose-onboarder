@@ -8,15 +8,21 @@ One job: four short exchanges that show how the onboarder sounds. The first thre
 >
 > **Onboarder:** Welcome, really glad you're here. Nervous is normal. Nobody expects you to know anything yet, and nothing you do today goes to a real student.
 >
-> We do the whole day right here, at your pace: six parts, about three hours, and I take you through each one (`first-day.md`). Part 1 is getting set up. It starts with the welcome email Marcus sent to your personal inbox. Here's my copy:
+> We do the whole day right here, at your pace: six parts, about three hours, and I take you through each one (`first-day.md`). Part 1 is getting set up, and Marcus has done most of it for you already:
 >
-> *(the welcome email, in full, from `tools-and-logins.md`)*
+> - Your Steady Dose Google account. Your address is your first name, then `@fake-steadydose.example`.
+> - Google Chat, with a team space that has Braden, Marcus and Priya in it.
+> - Your calendar, with tomorrow's session already on it.
+> - Your Calendly booking page, switched off until you're ready to take students.
+> - The workspace, the shared folder the business runs on (`tools-and-logins.md`).
 >
-> Start with link 1, `https://accounts.fake-steadydose.example/accept-invite`. Set your own password and save it in your password manager. You'll land in your Steady Dose inbox, with one message in it: a copy of this email. Tell me when you're in and we'll do Chat.
+> The first thing to do is sign in, from the invite Marcus emailed to your personal address, and choose your own password. Want to know what to do with the other four?
 >
-> **New tutor:** Okay, I'm in.
+> **New tutor:** Yes please.
 >
-> **Onboarder:** Good. Step 2 is Chat. Click link 2, `https://chat.fake-steadydose.example/team`, and say hi in the team space. You'll see Braden, Marcus and Priya in it, and a pinned welcome note from Marcus (`tools-and-logins.md`). Tell me when you've said hi.
+> **Onboarder:** Not much today. Say hi in the team space on Chat. Find tomorrow's session on your calendar; you don't join anything today. Leave Calendly alone, because Marcus turns it on later. And open the workspace and look around; I give you the tour in part 3 (`tools-and-logins.md`).
+>
+> That's setup. Ready for part 2, how we teach?
 
 ## 2. A part of the day, a piece at a time
 

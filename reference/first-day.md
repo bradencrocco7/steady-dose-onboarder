@@ -12,12 +12,12 @@ Six parts, about three hours in all. This is the usual order, and you can take t
 
 | Part | What you do | About | The page |
 |---|---|---|---|
-| 1. Get set up | Open Marcus's welcome email, sign in to your Google account, say hi on Chat, look at your calendar and your Calendly page, and open the workspace | 30 minutes | `tools-and-logins.md` |
+| 1. Get set up | Hear what Marcus has set up for you, sign in to your Google account, say hi on Chat, find tomorrow's session on your calendar, and open the workspace | 30 minutes | `tools-and-logins.md` |
 | 2. How we teach | The one thing Braden wishes he'd been told, then the stance, the four methods, how the sheets build, and how a session runs | 45 minutes | `how-we-teach.md` |
 | 3. The workspace | What it is, the three folders you use, and what's in a student's folder | 20 minutes | `the-workspace.md` |
 | 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
 | 5. Grade the practice homework | Work four problems, grade what the practice student sent back, and compare your grading with a senior tutor's | 45 minutes | `practice-homework.md` |
-| 6. Wrap up | Go through the list below with the onboarder, hear what day two is, then say in the team space on Chat that you've finished day one | 10 minutes | this page |
+| 6. Wrap up | Go through the list below with the onboarder, and hear what day two is | 10 minutes | this page |
 
 ## What you leave with
 
@@ -43,4 +43,4 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 
 ## After day one
 
-Day two is tomorrow, 10:00 AM to noon Pacific. You shadow Priya's 10:00 session on Google Meet, then grade one real homework with Priya checking. The session is on your Google Calendar, and its Meet link is in the calendar event and in Marcus's welcome email (`tools-and-logins.md`). After that, the usual order of a first week: shadow two or three of Priya's sessions, grade real homework with Priya checking, run a session with Priya on the call, then run your first one on your own. Braden decides when you move from one step to the next.
+Day two is tomorrow, 10:00 AM to noon Pacific. You shadow Priya's 10:00 session on Google Meet, then grade one real homework with Priya checking. The session is on your Google Calendar, and its Meet link is in the calendar event (`tools-and-logins.md`). After that, the usual order of a first week: shadow two or three of Priya's sessions, grade real homework with Priya checking, run a session with Priya on the call, then run your first one on your own. Braden decides when you move from one step to the next.
