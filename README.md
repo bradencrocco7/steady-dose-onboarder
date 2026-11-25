@@ -39,7 +39,7 @@ In the Steady Dose workspace, this folder is `onboarder/`. It sits beside the st
 
 When I started tutoring, I thought one good explanation would work for every student. It doesn't. The principles stay the same, and the explanation has to change for the student in front of you. Nobody told me that on my first day.
 
-That's why `reference/how-we-teach.md` exists. It's the second part of the day, before a new tutor reads a session or grades anything, and it opens with this lesson. The rest of the page is what stays the same: the stance, the four methods, how the sheets build, how a session runs. So every new tutor is told on their first day what I had to work out for myself.
+That's why `reference/how-we-teach.md` exists. It's the second part of the day, before a new tutor reads a session or grades anything, and it opens with this lesson. The principles are the pieces inside the four methods. The explanation is how you get one student to see them, and the page says what to try when one isn't landing. The rest of the page is how we teach: the stance, the four methods, how the sheets build, how a session runs. So every new tutor is told on their first day what I had to work out for myself.
 
 ## Credit
 

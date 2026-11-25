@@ -30,6 +30,10 @@ The onboarder goes through these with you at the end of the day. It's a recap, s
 - You can grade a miss the way we do: what happened, the step that catches it, and the fix.
 - You know who to ask about pay, about teaching, and about anything that goes to a student.
 
+## When you finish
+
+You don't need to tell anyone you've finished. There's no clock to punch and no timesheet to fill in, today or later. Marcus records your hours from the calendar: day one counts as three hours however long it takes you, and after that it's what's on your calendar. Anything else about your hours or pay is Marcus's (`who-is-who.md`).
+
 ## Later, not today
 
 These are real parts of the job. You'll meet them in your first weeks, not on day one:

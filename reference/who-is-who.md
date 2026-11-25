@@ -2,7 +2,7 @@
 
 One job: who works at Steady Dose, what each person owns, and who to ask about what.
 
-Three people work at Steady Dose, plus you. You do day one with the onboarder; the three of them are who you ask when it can't answer, or when something is theirs to decide. Everyone is reached on Google Chat in your Steady Dose Google account. If you can't get into Chat, each person's email is their first name, then `@fake-steadydose.example`. There is no phone list; if you need a number, ask Marcus.
+Three people work at Steady Dose, plus you. You do day one with the onboarder; the three of them are who you ask when it can't answer, or when something is theirs to decide. Everyone is reached on Google Chat in your Steady Dose Google account. If you can't get into Chat, email them: `braden@fake-steadydose.example`, `marcus@fake-steadydose.example` or `priya@fake-steadydose.example`. There is no phone list; if you need a number, ask Marcus.
 
 ## The people
 
@@ -20,7 +20,7 @@ She owns: your shadowing from day two, and checking your gradings of real homewo
 | If it's about... | Ask |
 |---|---|
 | your pay, pay dates, hours, your contract, a tax form | Marcus |
-| a login or your booking page that doesn't work, or a login you don't have | Marcus |
+| a login, the shared drive or your booking page that doesn't work, or a login you don't have | Marcus |
 | a student who wants to move or cancel a session, turns up late, or doesn't show | Marcus |
 | homework a student says they sent that isn't in their folder | Marcus |
 | you're sick, or running late for your own day | Marcus, and tell Priya if you were shadowing her |
