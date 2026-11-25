@@ -17,7 +17,7 @@ Six parts, about three hours in all. This is the usual order, and you can take t
 | 3. The workspace | What it is, the three folders you use, and what's in a student's folder | 20 minutes | `the-workspace.md` |
 | 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
 | 5. Grade the practice homework | Work four problems, grade what the practice student sent back, and compare your grading with a senior tutor's | 45 minutes | `practice-homework.md` |
-| 6. Wrap up | Go through the list below with the onboarder, and hear what day two is | 10 minutes | this page |
+| 6. Wrap up | Go through the list below with the onboarder, and hear what day two is and what we expect in your first week | 10 minutes | this page, `expectations.md` |
 
 ## What you leave with
 
@@ -36,7 +36,7 @@ You don't need to tell anyone you've finished. There's no clock to punch and no 
 
 ## Later, not today
 
-These are real parts of the job. You'll meet them in your first weeks, not on day one:
+These are real parts of the job. You'll meet them in your first weeks and months, not on day one:
 
 - Shadowing Priya's live sessions on Google Meet.
 - Running your own session from a run sheet.
@@ -47,4 +47,4 @@ These are real parts of the job. You'll meet them in your first weeks, not on da
 
 ## After day one
 
-Day two is tomorrow, 10:00 AM to noon Pacific. You shadow Priya's 10:00 session on Google Meet, then grade one real homework with Priya checking. The session is on your Google Calendar, and its Meet link is in the calendar event (`tools-and-logins.md`). After that, the usual order of a first week: shadow two or three of Priya's sessions, grade real homework with Priya checking, run a session with Priya on the call, then run your first one on your own. Braden decides when you move from one step to the next.
+Day two is tomorrow, 10:00 AM to noon Pacific. You shadow Priya's 10:00 session on Google Meet, then grade one real homework with Priya checking. The session is on your Google Calendar, and its Meet link is in the calendar event (`tools-and-logins.md`). What we expect after that, from your first week to your first three months, has its own page (`expectations.md`).
