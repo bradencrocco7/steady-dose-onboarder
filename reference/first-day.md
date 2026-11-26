@@ -23,16 +23,16 @@ Six parts, about three hours in all. This is the usual order, and you can take t
 
 The onboarder goes through these with you at the end of the day. It's a recap, so ask for any of it again.
 
-- You've signed in, and you've opened the workspace.
-- You know the one thing Braden wishes he'd been told when he started.
-- You know what "teach the why" means, and what each of the four methods is for.
-- You know the three folders you use, and where a student's homework and your grading go.
-- You can grade a miss the way we do: what happened, the step that catches it, and the fix.
-- You know who to ask about pay, about teaching, and about anything that goes to a student.
+- Part 1: you know what Marcus set up for you, and what to do with each today.
+- Part 2: you know the one thing Braden wishes he'd been told, what "teach the why" means, and what each of the four methods is for.
+- Part 3: you know the three folders you use, and where a student's homework and your grading go.
+- Part 4: you've seen how a session runs, from the run sheet before it to the record after.
+- Part 5: you can grade a miss the way we do: what happened, the step that catches it, and the fix.
+- All day: you know who to ask about pay, about teaching, and about anything that goes to a student.
 
 ## When you finish
 
-You don't need to tell anyone you've finished. There's no clock to punch and no timesheet to fill in, today or later. Marcus records your hours from the calendar: day one counts as three hours however long it takes you, and after that it's what's on your calendar. Anything else about your hours or pay is Marcus's (`who-is-who.md`).
+Day one is paid. You don't need to tell anyone you've finished. There's no clock to punch and no timesheet to fill in, today or later. Marcus records your hours from the calendar: day one counts as three hours however long it takes you, and after that it's what's on your calendar. Your rate, your pay dates and anything else about pay are Marcus's (`who-is-who.md`).
 
 ## Later, not today
 

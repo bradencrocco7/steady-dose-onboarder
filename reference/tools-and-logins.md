@@ -33,3 +33,5 @@ Students send homework to the homework email address on their welcome email (Mar
 ## If something doesn't work
 
 For a login or the shared drive, tell Marcus on Chat. If you can't get into Chat, because the welcome email never came or your Google login fails, check your spam folder first, then email him from your personal address at `marcus@fake-steadydose.example`. Nothing else on day one waits for it. Don't make a second account, and don't borrow someone else's login.
+
+If your internet drops during a session, email Marcus from your phone as soon as you can and tell him what happened. He reschedules the session.

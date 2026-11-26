@@ -4,6 +4,8 @@ One job: what Steady Dose expects of a new tutor and when, from day one to three
 
 Nobody scores you. We work with a new tutor the way we work with a student (`how-we-teach.md`): Priya puts what you did next to what was asked, and starts with what you got right.
 
+The job is part time: about 15 to 20 hours a week. Your own schedule is Marcus's (`who-is-who.md`).
+
 ## Day one and week one
 
 | When | Expected | Not expected yet |
