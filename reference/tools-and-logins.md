@@ -8,7 +8,7 @@ This is part 1 of your first day. Marcus set up all five before you started, and
 
 | Tool | What it's for | What's set up | What you do today |
 |---|---|---|---|
-| **Google account** (Steady Dose) | your work email, Chat, Calendar, Meet and Drive, all in one login | Your address is your first name, then `@fake-steadydose.example` | Sign in and choose your own password. Save it in your password manager; the one built into your browser or phone is fine. |
+| **Google account** (Steady Dose) | your work email, Chat, Calendar, Meet and Drive, all in one login | Your address is your first name, then `@steadydosetutoring.com` | Sign in and choose your own password. Save it in your password manager; the one built into your browser or phone is fine. |
 | **Google Chat** | messaging the team | You're in the team space, with Braden, Marcus and Priya | Open Chat from the left side of Gmail and say hi in the team space. To message one person, start a chat with their name. |
 | **Google Calendar and Meet** | every session is on your calendar and held on Meet; notes are made from the session audio | Tomorrow's session is on your calendar: "Shadow Priya's session", 10:00 AM Pacific | Find the event. You don't join anything today. |
 | **Calendly** | students book sessions on your booking page | Your booking page is made, and it's switched off | Nothing. Marcus turns it on when you're ready to take students. |
@@ -32,6 +32,6 @@ Students send homework to the homework email address on their welcome email (Mar
 
 ## If something doesn't work
 
-For a login or the shared drive, tell Marcus on Chat. If you can't get into Chat, because the welcome email never came or your Google login fails, check your spam folder first, then email him from your personal address at `marcus@fake-steadydose.example`. Nothing else on day one waits for it. Don't make a second account, and don't borrow someone else's login.
+For a login or the shared drive, tell Marcus on Chat. If you can't get into Chat, because the welcome email never came or your Google login fails, check your spam folder first, then email him from your personal address at `marcus@steadydosetutoring.com`. Nothing else on day one waits for it. Don't make a second account, and don't borrow someone else's login.
 
 If your internet drops during a session, email Marcus from your phone as soon as you can and tell him what happened. He reschedules the session.
