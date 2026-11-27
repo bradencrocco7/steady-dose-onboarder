@@ -12,7 +12,7 @@ Six parts, about three hours in all. This is the usual order, and you can take t
 
 | Part | What you do | About | The page |
 |---|---|---|---|
-| 1. Get set up | Hear what Marcus has set up for you, sign in to your Google account, say hi on Chat, find tomorrow's session on your calendar, and open the workspace | 30 minutes | `tools-and-logins.md` |
+| 1. Get set up | Four steps: sign in to your Google account, say hi on Chat, find tomorrow's session on your calendar, and open the workspace | 30 minutes | `tools-and-logins.md` |
 | 2. How we teach | The one thing Braden wishes he'd been told, then the stance, the four methods, how the sheets build, and how a session runs | 45 minutes | `how-we-teach.md` |
 | 3. The workspace | What it is, the three folders you use, and what's in a student's folder | 20 minutes | `the-workspace.md` |
 | 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
@@ -23,7 +23,7 @@ Six parts, about three hours in all. This is the usual order, and you can take t
 
 The onboarder goes through these with you at the end of the day. It's a recap, so ask for any of it again.
 
-- Part 1: you know what Marcus set up for you, and what to do with each today.
+- Part 1: you've done the four setup steps, and you know who to tell if a login stops working.
 - Part 2: you know the one thing Braden wishes he'd been told, what "teach the why" means, and what each of the four methods is for.
 - Part 3: you know the three folders you use, and where a student's homework and your grading go.
 - Part 4: you've seen how a session runs, from the run sheet before it to the record after.

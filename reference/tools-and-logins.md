@@ -4,15 +4,26 @@ One job: each tool a tutor uses, what it's for, what's already set up for you, a
 
 ## What's set up for you
 
-This is part 1 of your first day. Marcus set up all five before you started, and his welcome email, sent to your personal address, has your sign-in invite. Nothing needs installing.
+Marcus set up all five before you started. Nothing needs installing.
 
-| Tool | What it's for | What's set up | What you do today |
-|---|---|---|---|
-| **Google account** (Steady Dose) | your work email, Chat, Calendar, Meet and Drive, all in one login | Your address is your first name, then `@steadydosetutoring.com` | Sign in and choose your own password. Save it in your password manager; the one built into your browser or phone is fine. |
-| **Google Chat** | messaging the team | You're in the team space, with Braden, Marcus and Priya | Open Chat from the left side of Gmail and say hi in the team space. To message one person, start a chat with their name. |
-| **Google Calendar and Meet** | every session is on your calendar and held on Meet; notes are made from the session audio | Tomorrow's session is on your calendar: "Shadow Priya's session", 10:00 AM Pacific | Find the event. You don't join anything today. |
-| **Calendly** | students book sessions on your booking page | Your booking page is made, and it's switched off | Nothing. Marcus turns it on when you're ready to take students. |
-| **The workspace** | the shared folder the business runs on: every student's folder, and the library of sheets | You've been added to the shared drive, `steady-dose`, in Google Drive under "Shared drives" | Open it and look around. Part 3 of the day is the tour (`the-workspace.md`). |
+| Tool | What it's for | What's set up |
+|---|---|---|
+| **Google account** (Steady Dose) | your work email, Chat, Calendar, Meet and Drive, all in one login | Your address is your first name, then `@steadydosetutoring.com`. Marcus's welcome email, sent to your personal address, has your sign-in invite |
+| **Google Chat** | messaging the team | You're in the team space, with Braden, Marcus and Priya |
+| **Google Calendar and Meet** | every session is on your calendar and held on Meet; notes are made from the session audio | Tomorrow's session is on your calendar: "Shadow Priya's session", 10:00 AM Pacific |
+| **Calendly** | students book sessions on your booking page | Your booking page is made, and it's switched off. Marcus turns it on when you're ready to take students |
+| **The workspace** | the shared folder the business runs on: every student's folder, and the library of sheets | You've been added to the shared drive, `steady-dose`, in Google Drive |
+
+## Part 1, step by step
+
+This is part 1 of your first day. Four steps, about 30 minutes.
+
+1. **Sign in.** Open Marcus's welcome email in your personal inbox and click the sign-in invite in it. Sign in with your Steady Dose address and choose your own password. Save it in your password manager; the one built into your browser or phone is fine.
+2. **Say hi on Chat.** Open Gmail in your Steady Dose account. Click **Chat** on the left side, open the team space, and say hi. To message one person, start a chat with their name.
+3. **Find tomorrow's session.** Open Google Calendar and go to tomorrow. Find "Shadow Priya's session", 10:00 AM Pacific, and click it. The Meet link is in the event. You don't join anything today.
+4. **Open the workspace.** Open Google Drive, click **Shared drives** on the left, and open `steady-dose`. Look around, and don't change anything. Part 3 of the day is the tour (`the-workspace.md`).
+
+Calendly needs nothing from you today.
 
 ## Joining a session, from day two
 
