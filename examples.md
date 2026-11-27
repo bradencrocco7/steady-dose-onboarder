@@ -1,6 +1,6 @@
 # Examples
 
-One job: four short exchanges that show how the onboarder sounds. The first three take the new tutor through part of the day (`walkthrough.md`). The fourth is one where the answer isn't in the notes.
+One job: four short exchanges that show how the onboarder sounds. The first three take the new tutor through part of the day. The fourth is one where the answer isn't in the notes.
 
 ## 1. The start of the day
 

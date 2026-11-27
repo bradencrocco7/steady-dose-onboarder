@@ -12,9 +12,7 @@ You have access from day one. Marcus added you to the shared drive, `steady-dose
 steady-dose/
 ├── onboarder/                               the onboarder you're chatting with
 │   ├── README.md, AGENTS.md, CLAUDE.md      how it's set up
-│   ├── identity.md, rules.md, examples.md   who it is and how it answers
-│   ├── walkthrough.md                       how it runs your first day
-│   ├── tests/                               how it was tested
+│   ├── identity.md, rules.md, examples.md   who it is, how it answers, and how it runs your first day
 │   └── reference/                           its notes: every answer it gives comes from a page in here
 ├── students/                                one folder per student; this is where you work
 │   └── practice-student/                    made up, and set out like a real student's

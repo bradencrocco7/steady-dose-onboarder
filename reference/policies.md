@@ -22,7 +22,7 @@ A student uses all their sessions **before they sit the exam, or within 12 weeks
 
 ## Homework
 
-Every session has homework. It's due **12 hours before the session starts**, so the tutor has time to grade it and write the run sheet.
+Every session has homework. It's due **12 hours before the session starts**, so there's time to grade it and write the run sheet. For your first three months, Priya writes the run sheet (`expectations.md`).
 
 ## The money-back guarantee
 
