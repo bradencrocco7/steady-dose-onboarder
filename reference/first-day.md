@@ -8,16 +8,60 @@ You do the whole day with the onboarder, in the chat, at your own pace. There's 
 
 ## The day
 
-Six parts, about three hours in all. This is the usual order, and you can take them in any order you like. Stop for a break whenever you want; if you come back in a new chat, tell the onboarder which part you were on. Day one doesn't have to be done in one sitting. Anything you haven't had is still here afterwards, and day two goes ahead either way.
+Six parts, about three hours in all. The onboarder walks you through them one step at a time, and each part ends with one quick check. This is the usual order, and you can ask to go to any part. Stop for a break whenever you want; if you come back in a new chat, tell the onboarder which part you were on. Day one doesn't have to be done in one sitting. Anything you haven't had is still here afterwards, and day two goes ahead either way.
 
-| Part | What you do | About | The page |
-|---|---|---|---|
-| 1. Get set up | Four steps: sign in to your Google account, say hi on Chat, find tomorrow's session on your calendar, and open the workspace | 30 minutes | `tools-and-logins.md` |
-| 2. How we teach | The one thing Braden wishes he'd been told, then the stance, the four methods, how the sheets build, and how a session runs | 45 minutes | `how-we-teach.md` |
-| 3. The workspace | What it is, the three folders you use, and what's in a student's folder | 20 minutes | `the-workspace.md` |
-| 4. See how a session runs | Read the practice student's last session: the plan, a minute of it, and the record | 30 minutes | `sample-session.md` |
-| 5. Grade the practice homework | Work four problems, grade what the practice student sent back, and compare your grading with a senior tutor's | 45 minutes | `practice-homework.md` |
-| 6. Wrap up | Go through the list below with the onboarder, and hear what day two is and what we expect in your first week | 10 minutes | this page, `expectations.md` |
+### Part 1. Get set up (30 minutes, `tools-and-logins.md`)
+
+The four steps on that page: sign in, say hi on Chat, find tomorrow's session, open the workspace. Calendly needs nothing today.
+
+**Check:** if a login stops working, who do you tell?
+
+### Part 2. How we teach (45 minutes, `how-we-teach.md`)
+
+1. The one thing Braden wishes he'd been told, and the Analyze step of calc-CARE. You explain that step the way you'd explain it to a student.
+2. You explain it a second way, for a student who didn't get the first. Then you see the page's two ways. Nobody grades yours; that they're different is the point.
+3. The stance.
+4. The four methods, a line each on what it's for.
+5. How the sheets build.
+6. How a session runs.
+
+**Check:** which method would you use for a dose calculation?
+
+### Part 3. The workspace (20 minutes, `the-workspace.md`)
+
+1. What it is, and the three folders you use.
+2. The first three folders inside a student's folder.
+3. The other three.
+
+**Check:** where does your grading go?
+
+### Part 4. See how a session runs (30 minutes, `sample-session.md`)
+
+1. The six things to look for, so you know what to watch for as you read.
+2. The run sheet, and miss 2's five steps. What does Priya open with?
+3. A minute of the session. Does she ever say "wrong"? What does she do?
+4. The session record. Miss 3 wasn't reached. What happened to it?
+
+**Check:** where did you see each of the six things? Then you see where each one shows up.
+
+### Part 5. Grade the practice homework (45 minutes, `practice-homework.md`)
+
+If you haven't had calc-CARE's four steps yet, you get them in a line first. Then four problems, one at a time:
+
+1. The problem and what the practice student sent back. You work it yourself first.
+2. The key.
+3. You grade what the student sent back: "got it", or a miss with what happened, the step that would have caught it, and the fix.
+4. Priya's grading, to compare. You always grade before you see hers.
+
+If you can't work a problem, you get the key and grade from there. If you can't say how you'd grade it, a first impression is fine.
+
+**Check:** after problem 4, which gaps would you carry into the next session? Then you see Priya's list.
+
+### Part 6. Wrap up (10 minutes, this page and `expectations.md`)
+
+1. What's one thing that still feels fuzzy?
+2. A recap, a line for each part, from the list below.
+3. Every question the onboarder couldn't answer today, with who has each. Then day two, and what we expect in your first week.
 
 ## What you leave with
 

@@ -22,7 +22,7 @@ A newly licensed pharmacist hired as a part-time NAPLEX tutor. On day one they g
 
 ## What you know
 
-Only your notes: the nine pages in `reference/`. They are `first-day.md`, `tools-and-logins.md`, `how-we-teach.md`, `the-workspace.md`, `sample-session.md`, `practice-homework.md`, `expectations.md`, `who-is-who.md` and `policies.md`. `examples.md` shows how you sound.
+Only your notes: the reference pages, starting with `first-day.md`. `examples.md` shows how you sound and isn't one of them.
 
 The notes are written to the new tutor. In them, "you" is the tutor and "we" is the team.
 
